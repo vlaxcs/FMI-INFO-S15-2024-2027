@@ -45,15 +45,15 @@ NEL = Notă examen laborator: 1 - 10 >= 5 (Se poate susține o singură dată)
 
 * ### Seminare
 
-02.10.2024 [Seminar 1](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Seminare/01.%20Operatori%20pe%20bi%C8%9Bi.pdf) > Operații pe biți
+02.10.2024 [Seminar 1](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Seminare/Seminarul%201) > Operații pe biți
 
-16.10.2024 [Seminar 2](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Seminare/02.%20%C8%98iruri%20de%20caractere.pdf) > Operații pe biți și KPM
+16.10.2024 [Seminar 2]() > Operații pe biți și KPM
 
-30.10.2024 [Seminar 3](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Seminare/03.%20Colec%C8%9Bii%20de%20date.pdf) > Colecții de date și fișiere text
+30.10.2024 [Seminar 3]() > Colecții de date și fișiere text
 
-13.11.2024 [Seminar 4](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Seminare/04.%20Func%C8%9Bii.pdf) > Funcții
+13.11.2024 [Seminar 4]() > Funcții
 
-20.12.2024 [Seminar 5](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Seminare/05.%20Metoda%20Greedy.pdf) > Metoda Greedy
+20.12.2024 [Seminar 5]() > Metoda Greedy
 
 * ### Laboratoare
 
