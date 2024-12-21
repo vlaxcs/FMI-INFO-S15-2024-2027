@@ -19,17 +19,17 @@ NEL = Notă examen laborator: 1 - 10 >= 5 (Se poate susține o singură dată)
 
 * ### Cursuri
 
-02.10.2024 [Curs 1](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/facdbd0dffd10407c98a4d70c8d31f29efc72e61/Anul%20I%20-%20Licen%C8%9B%C4%83/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/01.%20Introducere%20%C3%AEn%20limbajul%20Python%20-%2002.10.2024.pdf) > Introducere în Limbajul Python
+02.10.2024 [Curs 1](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licen%C8%9B%C4%83/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/01.%20Introducere%20%C3%AEn%20limbajul%20Python%20-%2002.10.2024.pdf) > Introducere în Limbajul Python
 
-09.10.2024 [Curs 2](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/facdbd0dffd10407c98a4d70c8d31f29efc72e61/Anul%20I%20-%20Licen%C8%9B%C4%83/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/02.%20Instruc%C8%9Biuni%20-%2009.10.2024.pdf) > Instrucțiuni
+09.10.2024 [Curs 2](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licen%C8%9B%C4%83/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/02.%20Instruc%C8%9Biuni%20-%2009.10.2024.pdf) > Instrucțiuni
 
-16.10.2024 [Curs 3](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/facdbd0dffd10407c98a4d70c8d31f29efc72e61/Anul%20I%20-%20Licen%C8%9B%C4%83/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/03.%20%C8%98iruri%20de%20caractere%20-%2016.10.2024.pdf) > Șiruri de caractere, metode, fișiere text > [Notițe](https://colab.research.google.com/drive/15cNFjpqOmVooHKNp4fMlSMsmBbkX3HS7?usp=drive_link)
+16.10.2024 [Curs 3](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licen%C8%9B%C4%83/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/03.%20%C8%98iruri%20de%20caractere%20-%2016.10.2024.pdf) > Șiruri de caractere, metode, fișiere text > [Notițe](https://colab.research.google.com/drive/15cNFjpqOmVooHKNp4fMlSMsmBbkX3HS7?usp=drive_link)
 
 23.10.2024 [Curs 4](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licen%C8%9B%C4%83/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/04.%20Colec%C8%9Bii%20de%20date%20-%2023.10.2024.pdf) > Colecții de date
 
 30.10.2024 [Curs 5](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licen%C8%9B%C4%83/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/05.%20Colec%C8%9Bii%20de%20date%20-%2030.10.2024.pdf) > Colecții de date
 
-06.11.2024 [Curs 6](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licen%C8%9B%C4%83/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/6.%20Func%C8%9Bii%20-%2006.11.2024.pdf) > Funcții
+06.11.2024 [Curs 6](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licen%C8%9B%C4%83/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/06.%20Func%C8%9Bii%20-%2006.11.2024.pdf) > Funcții
 
 13.11.2024 [Curs 7](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licen%C8%9B%C4%83/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/07.%20Complexitatea%20algoritmilor%20-%2013.11.2024.pdf) > Complexitatea algoritmilor
 
@@ -77,4 +77,4 @@ NEL = Notă examen laborator: 1 - 10 >= 5 (Se poate susține o singură dată)
 
 27.11.2024 [Laborator 9](https://paper.dropbox.com/doc/Laborator-8-9-DP-nkwlzh5XeZRG8GgVaq1LU) > Programare Dinamică > [Notițe](https://drive.google.com/drive/folders/13RoAewRWQH0OrosK05xh7YNPpykv-opq?usp=drive_link)
 
-### **5 credite | Curs <9/14> | Seminar <4/7> | Laborator <9/14>**
+### **5 credite | Curs <12/14> | Seminar <6/7> | Laborator <12/14>**
