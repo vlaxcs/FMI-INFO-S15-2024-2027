@@ -19,47 +19,47 @@ NEL = Notă examen laborator: 1 - 10 >= 5 (Se poate susține o singură dată)
 
 * ### Cursuri
 
-02.10.2024 [Curs 1](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licen%C8%9B%C4%83/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/01.%20Introducere%20%C3%AEn%20limbajul%20Python%20-%2002.10.2024.pdf) > Introducere în Limbajul Python
+02.10.2024 [Curs 1](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/01.%20Introducere%20%C3%AEn%20limbajul%20Python%20-%2002.10.2024.pdf) > Introducere în Limbajul Python
 
-09.10.2024 [Curs 2](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licen%C8%9B%C4%83/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/02.%20Instruc%C8%9Biuni%20-%2009.10.2024.pdf) > Instrucțiuni
+09.10.2024 [Curs 2](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/02.%20Instruc%C8%9Biuni%20-%2009.10.2024.pdf) > Instrucțiuni
 
-16.10.2024 [Curs 3](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licen%C8%9B%C4%83/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/03.%20%C8%98iruri%20de%20caractere%20-%2016.10.2024.pdf) > Șiruri de caractere, metode, fișiere text > [Notițe](https://colab.research.google.com/drive/15cNFjpqOmVooHKNp4fMlSMsmBbkX3HS7?usp=drive_link)
+16.10.2024 [Curs 3](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/03.%20%C8%98iruri%20de%20caractere%20-%2016.10.2024.pdf) > Șiruri de caractere, metode, fișiere text > [Notițe](https://colab.research.google.com/drive/15cNFjpqOmVooHKNp4fMlSMsmBbkX3HS7?usp=drive_link)
 
-23.10.2024 [Curs 4](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licen%C8%9B%C4%83/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/04.%20Colec%C8%9Bii%20de%20date%20-%2023.10.2024.pdf) > Colecții de date
+23.10.2024 [Curs 4](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/04.%20Colec%C8%9Bii%20de%20date%20-%2023.10.2024.pdf) > Colecții de date
 
-30.10.2024 [Curs 5](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licen%C8%9B%C4%83/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/05.%20Colec%C8%9Bii%20de%20date%20-%2030.10.2024.pdf) > Colecții de date
+30.10.2024 [Curs 5](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/05.%20Colec%C8%9Bii%20de%20date%20-%2030.10.2024.pdf) > Colecții de date
 
-06.11.2024 [Curs 6](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licen%C8%9B%C4%83/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/06.%20Func%C8%9Bii%20-%2006.11.2024.pdf) > Funcții
+06.11.2024 [Curs 6](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/06.%20Func%C8%9Bii%20-%2006.11.2024.pdf) > Funcții
 
-13.11.2024 [Curs 7](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licen%C8%9B%C4%83/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/07.%20Complexitatea%20algoritmilor%20-%2013.11.2024.pdf) > Complexitatea algoritmilor
+13.11.2024 [Curs 7](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/07.%20Complexitatea%20algoritmilor%20-%2013.11.2024.pdf) > Complexitatea algoritmilor
 
-20.11.2024 [Curs 8](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licen%C8%9B%C4%83/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/08.%20Tehnica%20Greedy%20-%2020.11.2024.pdf) > Tehnica Greedy
+20.11.2024 [Curs 8](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/08.%20Tehnica%20Greedy%20-%2020.11.2024.pdf) > Tehnica Greedy
 
-27.11.2024 [Curs 9](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licen%C8%9B%C4%83/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/09.%20Tehnica%20Greedy%20-%2027.11.2024.pdf) > Tehnica Greedy
+27.11.2024 [Curs 9](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/09.%20Tehnica%20Greedy%20-%2027.11.2024.pdf) > Tehnica Greedy
 
-04.12.2024 [Curs 10](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licen%C8%9B%C4%83/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/10.%20Tehnica%20Greedy%20-%2004.12.2024.pdf) > Tehnica Greedy
+04.12.2024 [Curs 10](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/10.%20Tehnica%20Greedy%20-%2004.12.2024.pdf) > Tehnica Greedy
 
-11.12.2024 [Curs 11](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licen%C8%9B%C4%83/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/11.%20Divide%20et%20Impera%20-%2011.12.2024.pdf) > Tehnica Divide et Impera
+11.12.2024 [Curs 11](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/11.%20Divide%20et%20Impera%20-%2011.12.2024.pdf) > Tehnica Divide et Impera
 
-18.12.2024 [Curs 12](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licen%C8%9B%C4%83/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/12.%20Programarea%20Dinamic%C4%83%20-%2018.12.2024.pdf) > Tehnica Programării Dinamice
+18.12.2024 [Curs 12](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Cursuri/12.%20Programarea%20Dinamic%C4%83%20-%2018.12.2024.pdf) > Tehnica Programării Dinamice
 
 * ### Seminare
 
-02.10.2024 [Seminar 1](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licen%C8%9B%C4%83/Semestrul%20I/Programarea%20Algoritmilor/Seminare/01.%20Operatori%20pe%20bi%C8%9Bi.pdf) > Operații pe biți
+02.10.2024 [Seminar 1](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Seminare/01.%20Operatori%20pe%20bi%C8%9Bi.pdf) > Operații pe biți
 
-16.10.2024 [Seminar 2](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licen%C8%9B%C4%83/Semestrul%20I/Programarea%20Algoritmilor/Seminare/02.%20%C8%98iruri%20de%20caractere.pdf) > Operații pe biți și KPM
+16.10.2024 [Seminar 2](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Seminare/02.%20%C8%98iruri%20de%20caractere.pdf) > Operații pe biți și KPM
 
-30.10.2024 [Seminar 3](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licen%C8%9B%C4%83/Semestrul%20I/Programarea%20Algoritmilor/Seminare/03.%20Colec%C8%9Bii%20de%20date.pdf) > Colecții de date și fișiere text
+30.10.2024 [Seminar 3](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Seminare/03.%20Colec%C8%9Bii%20de%20date.pdf) > Colecții de date și fișiere text
 
-13.11.2024 [Seminar 4](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licen%C8%9B%C4%83/Semestrul%20I/Programarea%20Algoritmilor/Seminare/04.%20Func%C8%9Bii.pdf) > Funcții
+13.11.2024 [Seminar 4](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Seminare/04.%20Func%C8%9Bii.pdf) > Funcții
 
-20.12.2024 [Seminar 5](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licen%C8%9B%C4%83/Semestrul%20I/Programarea%20Algoritmilor/Seminare/05.%20Metoda%20Greedy.pdf) > Metoda Greedy
+20.12.2024 [Seminar 5](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Seminare/05.%20Metoda%20Greedy.pdf) > Metoda Greedy
 
 * ### Laboratoare
 
 > Editoare de text recomandate: [VS Code](https://code.visualstudio.com/), [PyCharm](https://www.jetbrains.com/pycharm/), [Spyder](https://www.spyder-ide.org/download/)
 
-02.10.2024 [Laborator 1](https://drive.google.com/file/d/1Pe9Tr6C3sq71aC8CJQAP_1qbWC9a58H3/view?usp=drive_link) > Probleme în Python > [Rezolvări](https://colab.research.google.com/drive/1KFsyaHOM2ntkz_JieAbd6gFjf_CvLFlu?usp=sharing)
+02.10.2024 [Laborator 1](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%201) > Probleme introductive
 
 09.10.2024 [Laborator 2](https://drive.google.com/file/d/1Z__b3GyzNZhzc3myyP0d1LkVhTPYc4wU/view?usp=drivesdk) > Probleme cu șiruri de caractere în Python > [Rezolvări](https://colab.research.google.com/drive/1qtJrnjnHxfoV-5dEAE8QrqYpwihymKnL)
 
