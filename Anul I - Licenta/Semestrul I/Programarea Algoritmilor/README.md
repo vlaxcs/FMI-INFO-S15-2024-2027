@@ -61,7 +61,7 @@ NEL = Notă examen laborator: 1 - 10 >= 5 (Se poate susține o singură dată)
 
 02.10.2024 [Laborator 1](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%201) > Probleme introductive
 
-09.10.2024 [Laborator 2](https://drive.google.com/file/d/1Z__b3GyzNZhzc3myyP0d1LkVhTPYc4wU/view?usp=drivesdk) > Probleme cu șiruri de caractere în Python > [Rezolvări](https://colab.research.google.com/drive/1qtJrnjnHxfoV-5dEAE8QrqYpwihymKnL)
+09.10.2024 [Laborator 2](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%202%20-%20WIP) > Probleme cu șiruri de caractere în Python
 
 16.10.2024 [Laborator 3](https://drive.google.com/file/d/1mTyRvPsV6OMnZGLSsnGbinzO0N0eB8mD/view?usp=drive_link) > Probleme cu șiruri de caractere în Python
 
