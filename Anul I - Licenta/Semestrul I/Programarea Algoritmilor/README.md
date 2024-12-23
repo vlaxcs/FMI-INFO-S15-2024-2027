@@ -63,15 +63,15 @@ NEL = Notă examen laborator: 1 - 10 >= 5 (Se poate susține o singură dată)
 
 09.10.2024 [Laborator 2](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%202) > Probleme cu șiruri de caractere în Python
 
-16.10.2024 [Laborator 3](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%203) > Probleme cu șiruri de caractere în Python
+16.10.2024 [Laborator 3](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%203%20%26%204%20%26%205) > Probleme cu șiruri de caractere în Python
 
-23.10.2024 [Laborator 4 - TBA](TBA) > Probleme cu liste, tupluri, dicționare și seturi > [Notițe](https://colab.research.google.com/drive/1U0ahbZEHPTWPCi0B4Vzc9AviDSrQaej6?usp=sharing)
+23.10.2024 [Laborator 4](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%203%20%26%204%20%26%205) > Probleme cu liste, tupluri și seturi
 
-30.10.2024 [Laborator 5 - TBA](TBA) >
+30.10.2024 [Laborator 5](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%203%20%26%204%20%26%205) > Probleme cu dicționare
 
-06.11.2024 [Laborator 6](https://paper.dropbox.com/doc/Laborator-6-7-Greedy-Bu5U4aO4GR5YShAGioBnn) > Metoda Greedy > [Rezolvări](https://drive.google.com/drive/u/1/folders/10GfTicF1EXHSZK4N1dHuGWPI0yYyq8cP)
+06.11.2024 [Laborator 6](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%206%20%26%207) > Tehnica de programare 'Greedy'
 
-13.11.2024 [Laborator 7](https://paper.dropbox.com/doc/Laborator-6-7-Greedy-Bu5U4aO4GR5YShAGioBnn) > Metoda Greedy > [Rezolvări](https://drive.google.com/drive/u/1/folders/10GfTicF1EXHSZK4N1dHuGWPI0yYyq8cP)
+13.11.2024 [Laborator 7](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%206%20%26%207) > Tehnica de programare 'Greedy'
 
 20.11.2024 [Laborator 8](https://paper.dropbox.com/doc/Laborator-8-9-DP-nkwlzh5XeZRG8GgVaq1LU) > Programare Dinamică > [Rezolvări](https://drive.google.com/drive/folders/1rzZxjjd2tsvLC9dZaScvZgpb6sFlMLAQ?usp=drive_link)
 
