@@ -47,7 +47,7 @@ NEL = Notă examen laborator: 1 - 10 >= 5 (Se poate susține o singură dată)
 
 02.10.2024 [Seminar 1](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Seminare/Seminarul%201) > Operații pe biți
 
-16.10.2024 [Seminar 2]() > Operații pe biți și KPM
+16.10.2024 [Seminar 2]() > Operații pe biți și KMP
 
 30.10.2024 [Seminar 3]() > Colecții de date și fișiere text
 
@@ -63,7 +63,7 @@ NEL = Notă examen laborator: 1 - 10 >= 5 (Se poate susține o singură dată)
 
 09.10.2024 [Laborator 2](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%202) > Probleme cu șiruri de caractere în Python
 
-16.10.2024 [Laborator 3](https://drive.google.com/file/d/1mTyRvPsV6OMnZGLSsnGbinzO0N0eB8mD/view?usp=drive_link) > Probleme cu șiruri de caractere în Python
+16.10.2024 [Laborator 3](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%203) > Probleme cu șiruri de caractere în Python
 
 23.10.2024 [Laborator 4 - TBA](TBA) > Probleme cu liste, tupluri, dicționare și seturi > [Notițe](https://colab.research.google.com/drive/1U0ahbZEHPTWPCi0B4Vzc9AviDSrQaej6?usp=sharing)
 
