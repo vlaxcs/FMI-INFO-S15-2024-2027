@@ -49,7 +49,7 @@ NEL = Notă examen laborator: 1 - 10 >= 5 (Se poate susține o singură dată)
 
 16.10.2024 [Seminar 2](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Seminare/Seminarul%202) > Șiruri de caractere, dicționare și KMP
 
-30.10.2024 [Seminar 3]() > Colecții de date și fișiere text
+30.10.2024 [Seminar 3](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Seminare/Seminarul%203) > Colecții de date și fișiere text
 
 13.11.2024 [Seminar 4]() > Funcții
 
