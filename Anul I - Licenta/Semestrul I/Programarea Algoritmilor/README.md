@@ -51,7 +51,7 @@ NEL = Notă examen laborator: 1 - 10 >= 5 (Se poate susține o singură dată)
 
 30.10.2024 [Seminar 3](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Seminare/Seminarul%203) > Colecții de date și fișiere text
 
-13.11.2024 [Seminar 4]() > Funcții
+13.11.2024 [Seminar 4](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Seminare/Seminarul%204) > Funcții
 
 20.12.2024 [Seminar 5]() > Metoda Greedy
 
