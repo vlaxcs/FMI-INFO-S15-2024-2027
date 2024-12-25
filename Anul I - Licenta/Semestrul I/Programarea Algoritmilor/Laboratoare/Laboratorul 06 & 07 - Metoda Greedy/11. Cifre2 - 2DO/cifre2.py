@@ -1,3 +1,8 @@
+
+
+
+
+# PROTOTIP (Nefunctional)
 # Pentru editorul de text
 import os
 path = os.path.dirname(__file__)

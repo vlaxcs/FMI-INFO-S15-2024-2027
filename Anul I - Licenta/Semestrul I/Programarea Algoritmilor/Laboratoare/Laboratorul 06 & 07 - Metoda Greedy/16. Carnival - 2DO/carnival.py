@@ -1,3 +1,4 @@
+# Translate după sursa carnival.cpp - Trebuie corectat
 n = int(input())
 
 solution = [0]
