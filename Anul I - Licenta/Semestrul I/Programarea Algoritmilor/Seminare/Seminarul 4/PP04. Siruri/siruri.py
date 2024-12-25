@@ -44,4 +44,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+    print("Output written in {}\n".format(outputFileName))
     exit()
