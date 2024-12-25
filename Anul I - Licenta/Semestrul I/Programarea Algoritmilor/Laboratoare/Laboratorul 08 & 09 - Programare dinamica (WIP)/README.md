@@ -1,7 +1,7 @@
 # Laboratoarele 8 & 9 - Programare dinamică
 
 ## Probleme ușoare cu dinamică liniară
-1. [Trepte]([https://www.pbinfo.ro/probleme/1798/trepte)
+1. [Trepte](https://www.pbinfo.ro/probleme/1798/trepte)
 2. [Calculează pe n](https://www.pbinfo.ro/probleme/3672/calculeaza-pe-n)
 3. [Nr. de submulțimi](https://www.pbinfo.ro/probleme/3213/numardesubmultimi)
 4. [Dinamica02](https://www.pbinfo.ro/probleme/2260/dinamica02)
@@ -19,5 +19,5 @@
 12. [Culori3](https://www.infoarena.ro/problema/culori3]
 
 ## Probleme care necesită optimizare
-13. [Trepte 2.2](https://www.pbinfo.ro/probleme/3217/trepte2-2)
-14. [No Pals](https://www.pbinfo.ro/probleme/2882/no-pals)
+1. [Trepte 2.2](https://www.pbinfo.ro/probleme/3217/trepte2-2)
+2. [No Pals](https://www.pbinfo.ro/probleme/2882/no-pals)
