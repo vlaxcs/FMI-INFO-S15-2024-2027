@@ -73,12 +73,12 @@ NEL = Notă examen laborator: 1 - 10 >= 5 (Se poate susține o singură dată)
 
 13.11.2024 [Laborator 7](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2006%20%26%2007%20-%20Metoda%20Greedy) > Tehnica de programare 'Greedy'
 
-20.11.2024 [Laborator 8](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2008%20%26%2009%20-%20Programare%20dinamica%20(WIP)) > Programare Dinamică > [Rezolvări](https://drive.google.com/drive/folders/1rzZxjjd2tsvLC9dZaScvZgpb6sFlMLAQ?usp=drive_link)
+20.11.2024 [Laborator 8 - WIP](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2008%20%26%2009%20-%20Programare%20dinamica%20(WIP)) > Programare Dinamică > [Rezolvări](https://drive.google.com/drive/folders/1rzZxjjd2tsvLC9dZaScvZgpb6sFlMLAQ?usp=drive_link)
 
-27.11.2024 [Laborator 9](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2008%20%26%2009%20-%20Programare%20dinamica%20(WIP)) > Programare Dinamică > [Notițe](https://drive.google.com/drive/folders/13RoAewRWQH0OrosK05xh7YNPpykv-opq?usp=drive_link)
+27.11.2024 [Laborator 9 - WIP](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2008%20%26%2009%20-%20Programare%20dinamica%20(WIP)) > Programare Dinamică > [Notițe](https://drive.google.com/drive/folders/13RoAewRWQH0OrosK05xh7YNPpykv-opq?usp=drive_link)
 
-04.11.2024 [Laborator 10](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2010%20-%20Recapitulare%20pentru%20test%20(WIP)) > Recapitulare pentru testul de laborator
+04.11.2024 [Laborator 10 - WIP](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2010%20-%20Recapitulare%20pentru%20test%20(WIP)) > Recapitulare pentru testul de laborator
 
-11.11.2024 [Laborator 11](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2011%20-%20Backtracking%20(WIP)) > Backtracking
+11.11.2024 [Laborator 11 - WIP](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2011%20-%20Backtracking%20(WIP)) > Backtracking
 
 ### **5 credite | Curs <12/14> | Seminar <6/7> | Laborator <12/14>**
