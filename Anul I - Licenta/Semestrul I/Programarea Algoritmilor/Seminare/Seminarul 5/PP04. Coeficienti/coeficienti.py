@@ -10,10 +10,6 @@ def getInput():
     
     return x, coefficients
 
-
-def negativesKey(item):
-    return abs(item), -item
-
 def setCoefficents(coefficients, x):
     polynomial = {power: None for power in range(len(coefficients))}
 
