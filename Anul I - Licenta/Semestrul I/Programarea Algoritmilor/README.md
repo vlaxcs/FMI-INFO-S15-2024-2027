@@ -1,11 +1,11 @@
 # [E] Programarea Algoritimilor (Informatică)
 ~ *ProgAlgo / PA*
 
-Curs: Prof. [RADU EUGEN BORIGA](mailto:radu.boriga@fmi.unibuc.ro)
+Curs: [RADU EUGEN BORIGA](mailto:radu.boriga@fmi.unibuc.ro)
 
-Laborator: Lab. LIVIA MĂGUREANU (Discord: oepeling | 688431698454642704)
+Laborator: LIVIA MĂGUREANU (Discord: oepeling | 688431698454642704)
 
-Seminar: Prof. [MARIUS DUMITRAN](mailto:marius.dumitran@fmi.unibuc.ro)
+Seminar: [MARIUS DUMITRAN](mailto:marius.dumitran@fmi.unibuc.ro)
 
 [Fișă de curs](https://cursuri.fmi.unibuc.ro/api/uploads/db2457ca-bb89-499f-b779-566f35615f59.pdf)
 
@@ -53,7 +53,7 @@ NEL = Notă examen laborator: 1 - 10 >= 5 (Se poate susține o singură dată)
 
 13.11.2024 [Seminar 4](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Seminare/Seminarul%204) > Funcții
 
-20.12.2024 [Seminar 5]() > Metoda Greedy
+20.12.2024 [Seminar 5](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Seminare/Seminarul%205) > Metoda Greedy
 
 * ### Laboratoare
 
