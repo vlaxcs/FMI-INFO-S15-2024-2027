@@ -59,22 +59,26 @@ NEL = Notă examen laborator: 1 - 10 >= 5 (Se poate susține o singură dată)
 
 > Editoare de text recomandate: [VS Code](https://code.visualstudio.com/), [PyCharm](https://www.jetbrains.com/pycharm/), [Spyder](https://www.spyder-ide.org/download/)
 
-02.10.2024 [Laborator 1](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%201) > Probleme introductive
+02.10.2024 [Laborator 1](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2001%20-%20Probleme%20introductive) > Probleme introductive
 
-09.10.2024 [Laborator 2](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%202) > Probleme cu șiruri de caractere în Python
+09.10.2024 [Laborator 2](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2002%20-%20Siruri%20de%20caractere) > Probleme cu șiruri de caractere în Python
 
-16.10.2024 [Laborator 3](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%203%20%26%204%20%26%205) > Probleme cu șiruri de caractere în Python
+16.10.2024 [Laborator 3](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2003%20%26%2004%20%26%2005%20-%20Colectii%20de%20date) > Probleme cu șiruri de caractere în Python
 
-23.10.2024 [Laborator 4](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%203%20%26%204%20%26%205) > Probleme cu liste, tupluri și seturi
+23.10.2024 [Laborator 4](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2003%20%26%2004%20%26%2005%20-%20Colectii%20de%20date) > Probleme cu liste, tupluri și seturi
 
-30.10.2024 [Laborator 5](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%203%20%26%204%20%26%205) > Probleme cu dicționare
+30.10.2024 [Laborator 5](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2003%20%26%2004%20%26%2005%20-%20Colectii%20de%20date) > Probleme cu dicționare
 
-06.11.2024 [Laborator 6](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%206%20%26%207) > Tehnica de programare 'Greedy'
+06.11.2024 [Laborator 6](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2006%20%26%2007%20-%20Metoda%20Greedy) > Tehnica de programare 'Greedy'
 
-13.11.2024 [Laborator 7](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%206%20%26%207) > Tehnica de programare 'Greedy'
+13.11.2024 [Laborator 7](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2006%20%26%2007%20-%20Metoda%20Greedy) > Tehnica de programare 'Greedy'
 
-20.11.2024 [Laborator 8](https://paper.dropbox.com/doc/Laborator-8-9-DP-nkwlzh5XeZRG8GgVaq1LU) > Programare Dinamică > [Rezolvări](https://drive.google.com/drive/folders/1rzZxjjd2tsvLC9dZaScvZgpb6sFlMLAQ?usp=drive_link)
+20.11.2024 [Laborator 8](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2008%20%26%2009%20-%20Programare%20dinamica%20(WIP)) > Programare Dinamică > [Rezolvări](https://drive.google.com/drive/folders/1rzZxjjd2tsvLC9dZaScvZgpb6sFlMLAQ?usp=drive_link)
 
-27.11.2024 [Laborator 9](https://paper.dropbox.com/doc/Laborator-8-9-DP-nkwlzh5XeZRG8GgVaq1LU) > Programare Dinamică > [Notițe](https://drive.google.com/drive/folders/13RoAewRWQH0OrosK05xh7YNPpykv-opq?usp=drive_link)
+27.11.2024 [Laborator 9](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2008%20%26%2009%20-%20Programare%20dinamica%20(WIP)) > Programare Dinamică > [Notițe](https://drive.google.com/drive/folders/13RoAewRWQH0OrosK05xh7YNPpykv-opq?usp=drive_link)
+
+04.11.2024 [Laborator 10](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2010%20-%20Recapitulare%20pentru%20test%20(WIP)) > Recapitulare pentru testul de laborator
+
+11.11.2024 [Laborator 11](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2011%20-%20Backtracking%20(WIP)) > Backtracking
 
 ### **5 credite | Curs <12/14> | Seminar <6/7> | Laborator <12/14>**
