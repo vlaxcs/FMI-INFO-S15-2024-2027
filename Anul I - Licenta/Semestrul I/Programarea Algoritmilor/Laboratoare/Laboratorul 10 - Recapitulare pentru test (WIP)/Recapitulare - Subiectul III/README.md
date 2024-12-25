@@ -1,9 +1,4 @@
-# Laborator 10 — Recapitulare
-
-Date:
-- 03.11.2024
-
-# Model test de laborator
+# Model 3
 ## Problema 1 [4 pct]
 
 ### Enunt
