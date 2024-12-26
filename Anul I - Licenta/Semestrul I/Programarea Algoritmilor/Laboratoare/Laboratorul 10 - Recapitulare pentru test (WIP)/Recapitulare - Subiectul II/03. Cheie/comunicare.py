@@ -32,7 +32,7 @@ def reconstituire(messages):
     def sortKey(item):
         return item[1]
     
-    messages_a = [((decodificare(message[0], messages['secretKey']), message[1])) for message in messages['A']]
+    messages_a = [(decodificare(message[0], messages['secretKey']), message[1]) for message in messages['A']]
     messages_a = " ".join([message[0] for message in sorted(messages_a, key=sortKey)])
 
     messages_b = [(decodificare(message[0], messages['secretKey']), message[1]) for message in messages['B']]
