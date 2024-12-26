@@ -1,6 +1,9 @@
-import os
-path = os.path.dirname(__file__)
-inputFileName = path + "/cinema.in"
+# Pentru editorul de text
+# import os
+# path = os.path.dirname(__file__)
+# inputFileName = path + "/cinema.in"
+
+inputFileName = "cinema.in"
 
 def getInput():
     cinemas = {}

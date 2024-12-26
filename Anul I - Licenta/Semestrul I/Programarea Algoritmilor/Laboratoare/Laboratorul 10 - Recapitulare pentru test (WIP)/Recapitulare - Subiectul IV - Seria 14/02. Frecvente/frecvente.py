@@ -1,10 +1,9 @@
-# Frecvente de aparitie = Dictionar cu cheia frecventa: Lista de cuvinte
-# Lista ordonata pentru fiecare cheie: sorted cu lambda
+# Pentru editorul de text
+# import os
+# path = os.path.dirname(__file__)
+# inputFileName = path + "/frecvente.in"
 
-import os
-path = os.path.dirname(__file__)
-inputFileName = path + "/frecvente.in"
-
+inputFileName = "frecvente.in"
 
 def getInput():
     words = []
@@ -36,7 +35,6 @@ def computeFrequencies(words):
         else:
             d[frequencies[word]].append(word)
 
-    # Sortam dictionarul descendent dupa cheie, apoi ascendent lexicografic
     d = dict(sorted(d.items(), key=lambda item: -item[0]))
     return d
 
