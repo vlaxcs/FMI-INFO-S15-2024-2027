@@ -7,7 +7,7 @@
 inputFileName = "matrice.in"
 outputFileName = "matrice.out"
 
-def getInput():
+def citire_matrice():
     with open(inputFileName, "r") as f:
         return [[int(var) for var in line.split()] for line in f.readlines()]
 
@@ -36,7 +36,7 @@ def setOutput(values):
     return
 
 def main():
-    matrix = getInput()
+    matrix = citire_matrice()
     matrix = borderMatrix(matrix)
     values = traverseMatrix(matrix)
     setOutput(values)
