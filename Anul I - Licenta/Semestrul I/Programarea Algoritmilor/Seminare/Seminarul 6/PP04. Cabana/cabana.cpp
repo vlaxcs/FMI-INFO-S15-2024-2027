@@ -39,8 +39,9 @@ int main()
 		for (int j = i + 2; j < n - 1; ++j)
 		{	
 			if ((p[j].x == p[j + 1].x)
-			// alegem punctele (p[j], p[j + 1])
-			// cu ele stabilim colțurile (DREAPTA JOS, DREAPTA SUS) ale dreptunghiului
+			// încercăm să alegem punctele (p[j], p[j + 1])
+			// cu ele ar trebui să stabilim colțurile (DREAPTA JOS, DREAPTA SUS) ale dreptunghiului
+			// dar trebuie respectate și condițiile de jos:
 			
 			&& (p[i].y == p[j].y && p[i + 1].y == p[j + 1].y))
 			// 1) colțul stânga-jos (p[i].x, --> p[i].y <--) 
@@ -56,7 +57,7 @@ int main()
 			}
 
 			// dacă se găsește punct cu (înălțimea >= colț stânga-jos și
-			//									   <= colț stânga-sus)
+			//				       <= colț stânga-sus)
 			// înseamnă că nu se poate forma un dreptunghi mai mare
 			// ( mai /~lung) decât cel maximal găsit până acum
 			else if (p[j].y >= p[i].y &&
