@@ -8,7 +8,7 @@
 - d[2] = 2 * 3 = 6 - Se termină cu {2} sau {4}, la care se adaugă oricare {1}, {3}, ({2} sau {4})
 
 ## Relație de recurență
-`d[i] = 3 * d[i - 1]` - Se poate adăuga orice număr diferit de cel setat anterior
+`d[i] = 3 * d[i - 1]` - Se poate adăuga orice cifră diferită de cea setat anterior
 
 ## Soluție - 80P (Din cauza dimensiunii insuficiente a vectorului)
 ```
@@ -27,6 +27,7 @@ int main()
 
 ## Soluție - 100P
 <i>Soluția presupune o optimizare a exponențierii 3<sup>n-1</sup></i>
+
 Se poate observa că starea de recurență `d[i] = 3 * d[i - 1]` începe cu d[1] = 2, deci d[i] = 3<sup>i-1</sup>
 
 ```
