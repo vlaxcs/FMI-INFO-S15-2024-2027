@@ -1,11 +1,11 @@
 # Laboratoarele 8 & 9 - Programare dinamică
 
 ## Probleme ușoare cu dinamică liniară
-1. [Trepte](https://www.pbinfo.ro/probleme/1798/trepte)
-2. [Calculează pe n](https://www.pbinfo.ro/probleme/3672/calculeaza-pe-n)
-3. [Nr. de submulțimi](https://www.pbinfo.ro/probleme/3213/numardesubmultimi)
-4. [Dinamica02](https://www.pbinfo.ro/probleme/2260/dinamica02)
-5. [Dinamica06](https://www.pbinfo.ro/probleme/3990/dinamica06)
+1. [Trepte](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2008%20%26%2009%20-%20Programare%20dinamica%20(WIP)/01.%20Trepte)
+2. [Calculează pe n](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2008%20%26%2009%20-%20Programare%20dinamica%20(WIP)/02.%20Calculeaza%20pe%20n)
+3. [Nr. de submulțimi](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2008%20%26%2009%20-%20Programare%20dinamica%20(WIP)/03.%20Submultimi)
+4. [Dinamica02](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2008%20%26%2009%20-%20Programare%20dinamica%20(WIP)/04.%20Dinamica02)
+5. [Dinamica06](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2008%20%26%2009%20-%20Programare%20dinamica%20(WIP)/05.%20Dinamica06)
 
 ## Probleme ușoare în 2D
 6. [Cladire](https://www.pbinfo.ro/probleme/392/cladire)
