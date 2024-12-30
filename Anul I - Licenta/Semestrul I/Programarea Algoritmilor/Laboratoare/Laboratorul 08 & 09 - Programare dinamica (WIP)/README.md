@@ -19,5 +19,5 @@
 12. [Culori3](https://www.infoarena.ro/problema/culori3]
 
 ## Probleme care necesită optimizare
-1. [Trepte 2.2](https://www.pbinfo.ro/probleme/3217/trepte2-2)
-2. [No Pals](https://www.pbinfo.ro/probleme/2882/no-pals)
+13. [Trepte 2.2](https://www.pbinfo.ro/probleme/3217/trepte2-2)
+14. [No Pals](https://www.pbinfo.ro/probleme/2882/no-pals)
