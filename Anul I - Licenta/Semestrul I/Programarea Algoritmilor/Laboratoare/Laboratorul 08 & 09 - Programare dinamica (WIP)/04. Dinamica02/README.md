@@ -10,7 +10,7 @@
 
 ## Relații de recurență
 - e[i] = d[i - 1]
-- d[i] = 25 * d[i - 1] + 25 * e[i - 1] = <b>25 * d[i - 1] + 25 * d[i - 2]</b>
+- d[i] = 25 * d[i - 1] + 25 * e[i - 1] => `d[i] = 25 * d[i - 1] + 25 * d[i - 2]`
 
 ## Soluție - 80P (Din cauza dimensiunii insuficiente a vectorului)
 ```
