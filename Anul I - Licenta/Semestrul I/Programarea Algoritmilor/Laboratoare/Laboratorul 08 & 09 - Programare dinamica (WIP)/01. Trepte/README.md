@@ -25,7 +25,6 @@ int main()
         d[i] = d[i - 1] + d[i - 2];
     
     printf("%d", d[n]);
-    free(d);
     return 0;
 }
 ```
