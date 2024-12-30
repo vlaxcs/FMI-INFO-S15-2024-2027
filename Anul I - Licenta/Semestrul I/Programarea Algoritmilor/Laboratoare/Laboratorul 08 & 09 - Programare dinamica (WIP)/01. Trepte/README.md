@@ -4,11 +4,11 @@
 ## Stare
 - d[i] - Numărul total de moduri în care se poate ajunge de pe scara <b>0</b> pe scara <b>i</b>
 
-## Stare inițială: 
+## Stare inițială
 - d[1] = 1 - Un singur mod: <b>0 > 1</b>)
 - d[2] = 2 - Două moduri: <i>I) <b>0 > 2</b></i> și <i>II) <b>0 > 1, 1 > 2</b></i>
 
-## Relația de recurență: 
+## Relația de recurență
 `d[i] = d[i - 1] + d[i - 2]`
 - Pe scara <b>i</b> se poate ajunge de pe scara <b>i - 1</b> sau <b>i - 2</b>
 

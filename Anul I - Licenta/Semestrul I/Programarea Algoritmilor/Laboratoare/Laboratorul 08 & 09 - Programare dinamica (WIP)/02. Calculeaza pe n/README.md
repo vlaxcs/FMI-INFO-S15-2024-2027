@@ -1,12 +1,12 @@
 # Problema [Calculează pe n](https://www.pbinfo.ro/probleme/3672/calculeaza-pe-n)
 
 ## Stare
-- d[i] - Numarul minim de operatii necesare pentru a ajunge la numarul i
+- d[i] - Numărul <b>minim</b> de operații necesare pentru a calcula numărul <b>i</b>
 
-## Stare inițială: 
-- d[1] = 0 - Numarul 1 este la baza celorlalte operatii, nu poate fi calculat
+## Stare inițială
+- d[1] = 0 - Numărul 1 este la baza celorlalte operații și <i><b>nu poate fi calculat</b></i>
 
-## Relația de recurență: 
+## Relația de recurență
 `d[i] = 1 + min(d[i - 1], d[i / 2], d[i / 3])`
 
 ## Soluție (bottom-up)
