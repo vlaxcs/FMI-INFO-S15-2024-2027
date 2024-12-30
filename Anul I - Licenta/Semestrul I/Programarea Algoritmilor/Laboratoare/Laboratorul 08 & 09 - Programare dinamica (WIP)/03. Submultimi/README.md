@@ -8,7 +8,7 @@
 - d[2] = 2 - Submulțimile {1}, {2}
 
 ## Relatie de recurenta: 
-'d[i] = d[i - 1] + d[i - 2] + 1'
+`d[i] = d[i - 1] + d[i - 2] + 1`
 
 - d[i - 1] (Nu îl adăugam pe i submultimile anterioare)
 - d[i - 2] (În adăugăm la orice submulțime anterioară, dar nu învecinată)
