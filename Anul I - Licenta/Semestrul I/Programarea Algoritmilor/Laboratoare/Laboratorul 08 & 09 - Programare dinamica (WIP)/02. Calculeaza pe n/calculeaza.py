@@ -2,6 +2,7 @@
 # Starea: d[i] - Numarul minim de operatii necesare pentru a ajunge la numarul i
 # Starea initiala: d[1] = 0 - Numarul 1 este la baza celorlalte operatii, nu poate fi calculat
 # Relatia de recurenta: d[i] = 1 + min(d[i - 1], d[i / 2], d[i / 3])
+
 def main():
     n = int(input())
     d = [0] * (n + 1)

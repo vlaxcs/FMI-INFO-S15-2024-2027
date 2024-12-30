@@ -14,7 +14,7 @@
 - d[i - 2] (În adăugăm la orice submulțime anterioară, dar nu învecinată)
 - 1 (Îl adăugăm în submulțimea formată doar din elementul i)
 
-## Cod
+## Soluție
 ```
 #include <algorithm>
 #define MOD 777013
