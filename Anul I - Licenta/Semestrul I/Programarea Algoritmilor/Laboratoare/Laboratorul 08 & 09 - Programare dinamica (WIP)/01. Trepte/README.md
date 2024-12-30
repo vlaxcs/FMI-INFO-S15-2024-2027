@@ -1,5 +1,5 @@
 # Problema [Trepte](https://www.pbinfo.ro/probleme/1798/trepte)
-<i>Soluția problemei este, de fapt, o implementare a șirului lui Fibonacci</i>
+<i>Soluția problemei este, de fapt, o implementare a Șirului lui Fibonacci</i>
 
 ## Stare
 - d[i] - Numărul total de moduri în care se poate ajunge de pe scara <b>0</b> pe scara <b>i</b>

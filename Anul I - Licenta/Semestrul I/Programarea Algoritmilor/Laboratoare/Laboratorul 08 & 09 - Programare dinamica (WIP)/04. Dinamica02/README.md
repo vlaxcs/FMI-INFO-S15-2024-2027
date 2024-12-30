@@ -29,7 +29,7 @@ int main()
 ```
 
 ## Soluție - 100P
-<i>Soluția presupune o optimizare de spațiu cunoscută din problemele cu Fibonacci</i>
+<i>Soluția presupune o optimizare de spațiu cunoscută din problemele cu Șirul lui Fibonacci</i>
 ```
 #include <algorithm>
 #define MOD 777013
