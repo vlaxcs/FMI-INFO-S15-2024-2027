@@ -12,7 +12,7 @@
 - d[1][i] = 0, dacă b[1][i] = 1 sau b[1][i - 1] = 1 (dacă avem camera curentă și cea de pe coloana anterioară deblocate)
 ```
 
-- Pentru orice <b>1 <= i <= n</b> - Se poate ajunge în camerele de pe prima coloană într-un singur mod (Deplasare în jos)
+- Pentru orice <b>1 <= i <= n</b> - Se poate ajunge în camerele de pe prima coloană într-un singur mod (Deplasare în jos):
 ```
 - d[i][1] = 1, <b>dacă b[i][1] = 0 și b[i - 1][1] = 0</b> (dacă avem camera curentă sau cea de pe linia anterioară blocate)
 - d[i][1] = 0, <b>dacă b[i][1] = 1 sau b[i - 1][1] = 1</b> (dacă avem camera curentă și cea de pe linia anterioară deblocate)
@@ -20,8 +20,8 @@
 
 ## Relație de recurență
 `d[i][j] = !b[i][j] * d[i][j - 1] * !b[i][j - 1] + d[i - 1][j] * !b[i - 1][j]` - În camera de pe poziția <b>i, j</b> se poate ajunge, doar dacă aceasta este deblocată, astfel:
-- printr-o deplasare din camera anterioară, aflată în stânga (d[i][j - 1]), dacă acea cameră este deblocată - Coloana anterioară
-- printr-o deplasare din camera anterioară, aflată sus (d[i - 1][j]), dacă acea cameră este deblocată - Linia anterioară
+- printr-o deplasare din camera anterioară, aflată în stânga (d[i][j - 1]), dacă acea cameră este deblocată (Coloana anterioară, aceeași linie)
+- printr-o deplasare din camera anterioară, aflată sus (d[i - 1][j]), dacă acea cameră este deblocată (Linia anterioară, aceeași coloană)
 
 ## Soluție - 100P
 ```

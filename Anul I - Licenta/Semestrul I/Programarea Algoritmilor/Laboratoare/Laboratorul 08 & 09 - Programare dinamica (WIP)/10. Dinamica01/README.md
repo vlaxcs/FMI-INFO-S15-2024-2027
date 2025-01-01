@@ -5,14 +5,14 @@
 - d[i][j] - Numărul submulțimilor cu n cifre, care se termină cu o cifră de paritate j
 
 ## Stări inițale
-- d[1][0] - Se pot alege 4 cifre pare pentru început: 2, 4, 6, 8
-- d[1][1] - Se pot alege 5 cifre impare pentru început: 1, 3, 5, 7, 9
+- d[1][0] = 4 - Se pot alege 4 cifre pare pentru început: 2, 4, 6, 8
+- d[1][1] = 5 - Se pot alege 5 cifre impare pentru început: 1, 3, 5, 7, 9
 
 ## Relații de recurență
-- d[i][0] = 4 * d[i - 1][1] - Adăgăm o nouă cifră pară din {2, 4, 6, 8} în fiecare dintre submulțimile construite până acum, care se termină cu o cifră impară
-- d[i][1] = 5 * d[i - 1][0] - Adăgăm o nouă cifră impară din {1, 3, 5, 7, 9} în fiecare dintre submulțimile construite până acum, care se termină cu o cifră pară
+- `d[i][0] = 4 * d[i - 1][1]` - Adăgăm o nouă cifră pară din {2, 4, 6, 8} în fiecare dintre submulțimile construite până acum, care se termină cu o cifră impară
+- `d[i][1] = 5 * d[i - 1][0]` - Adăgăm o nouă cifră impară din {1, 3, 5, 7, 9} în fiecare dintre submulțimile construite până acum, care se termină cu o cifră pară
 
-## Soluție
+## Soluție - 100P - Python (Cu indexare de la 0)
 ```
 MOD = 30103
 def main():
@@ -33,7 +33,7 @@ if __name__ == "__main__":
     exit()
 ```
 
-## Soluție
+## Soluție - 100P - C++ (Cu indexare de la 0)
 ```
 #include <algorithm>
 #define MOD 30103

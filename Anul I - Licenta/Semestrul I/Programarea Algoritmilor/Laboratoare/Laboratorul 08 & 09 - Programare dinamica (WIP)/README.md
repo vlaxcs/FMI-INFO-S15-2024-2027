@@ -11,7 +11,7 @@
 6. [Cladire](https://www.pbinfo.ro/probleme/392/cladire)
 7. [Cladire1](https://www.pbinfo.ro/probleme/393/cladire1)
 8. [Pacman XI](https://www.pbinfo.ro/probleme/3265/pacman-xi)
-9. [SubTri](https://www.pbinfo.ro/probleme/385/sumtri)
+9. [SumTri](https://www.pbinfo.ro/probleme/385/sumtri)
 
 ## Probleme de dificultate medie
 10. [Dinamica01](https://www.pbinfo.ro/probleme/2259/dinamica01)
