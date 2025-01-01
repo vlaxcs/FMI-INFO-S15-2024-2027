@@ -8,10 +8,10 @@
 
 ## Relație de recurență
 `d[i][j] = d[i][j - 1] + d[i - 1][j - 1]` - În căsuța de pe poziția <b>i, j</b> se poate ajunge:
-- printr-o deplasare din camera anterioară, aflată în stânga (d[i][j - 1]) - Coloana anterioară
-- printr-o deplasare din camera anterioară, aflată la stânga-sus (d[i - 1][j - 1]) - Coloana anterioară de pe linia anterioară
+- printr-o deplasare din camera anterioară, aflată în stânga (d[i][j - 1]) (coloana anterioară, aceeași linie)
+- printr-o deplasare din camera anterioară, aflată la stânga-sus (d[i - 1][j - 1]) - (coloana anterioară, linia anterioară)
 
-## Soluție - 100P
+## Soluție - 100P - C++ (Cu indexare de la 0)
 ```
 #include <fstream>
 #include <vector>
