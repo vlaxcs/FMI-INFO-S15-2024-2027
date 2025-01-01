@@ -1,10 +1,11 @@
 # Problema [Culori3](https://www.infoarena.ro/problema/culori3)
 
 ## Stări:
-- d[i][culoare] - Numărul de moduri în care poate fi vopsit un gard, care are scândura <b>i</b> vopsită în culoarea respectivă
+- d[i][culoare] - Numărul de moduri în care poate fi vopsit un gard cu <b>i</b> scânduri, care are scândura <b>i</b> vopsită în culoarea respectivă
 - sum(d[n]) - Numărul total de moduri în care poate fi vopsit un gard cu n scânduri
 
 ## Stări inițiale:
+Există un singur mod de a vopsi prima scândură cu una dintre culorile puse la dispoziție:
 - `d[1][albastru] = 1`
 - `d[1][alb] = 1`
 - `d[1][rosu] = 1`
