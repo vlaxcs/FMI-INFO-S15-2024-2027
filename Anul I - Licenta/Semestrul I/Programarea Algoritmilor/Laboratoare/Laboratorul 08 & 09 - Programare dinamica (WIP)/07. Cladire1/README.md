@@ -2,28 +2,28 @@
 
 ## Stare: 
 - d[i][j] - Numărul de moduri în care se poate ajunge în camera de pe poziția <b>i, j</b>
-- b[i][j] - Statusul unei camere (blocate = 1 / deblocate = 0)
+- b[i][j] - Statusul camerei de pe poziția <b>i, j</b> (blocată = 1 / deblocată = 0)
 
 ## Stări inițiale
 - d[1][1] = 1 - Se poate ajunge într-un singur mod în camera de start (Nu este blocată niciodată)
 - Pentru orice <b>1 <= i <= m</b> - Se poate ajunge în camerele de pe prima linie într-un singur mod (Deplasare la dreapta):
 ```
-- d[1][i] = 1, dacă b[1][i] = 0 și b[1][i - 1] = 0 (dacă avem camera curentă sau cea de pe coloana anterioară blocate)
-- d[1][i] = 0, dacă b[1][i] = 1 sau b[1][i - 1] = 1 (dacă avem camera curentă și cea de pe coloana anterioară deblocate)
+- d[1][i] = 1, dacă b[1][i] = 0 și b[1][i - 1] = 0 (dacă avem camera curentă sau cea de pe coloana anterioară deblocate)
+- d[1][i] = 0, dacă b[1][i] = 1 sau b[1][i - 1] = 1 (dacă avem camera curentă și cea de pe coloana anterioară blocate)
 ```
 
 - Pentru orice <b>1 <= i <= n</b> - Se poate ajunge în camerele de pe prima coloană într-un singur mod (Deplasare în jos):
 ```
-- d[i][1] = 1, <b>dacă b[i][1] = 0 și b[i - 1][1] = 0</b> (dacă avem camera curentă sau cea de pe linia anterioară blocate)
-- d[i][1] = 0, <b>dacă b[i][1] = 1 sau b[i - 1][1] = 1</b> (dacă avem camera curentă și cea de pe linia anterioară deblocate)
+- d[i][1] = 1, <b>dacă b[i][1] = 0 și b[i - 1][1] = 0</b> (dacă avem camera curentă sau cea de pe linia anterioară deblocate)
+- d[i][1] = 0, <b>dacă b[i][1] = 1 sau b[i - 1][1] = 1</b> (dacă avem camera curentă și cea de pe linia anterioară blocate)
 ```
 
 ## Relație de recurență
-`d[i][j] = !b[i][j] * d[i][j - 1] * !b[i][j - 1] + d[i - 1][j] * !b[i - 1][j]` - În camera de pe poziția <b>i, j</b> se poate ajunge, doar dacă aceasta este deblocată, astfel:
-- printr-o deplasare din camera anterioară, aflată în stânga (d[i][j - 1]), dacă acea cameră este deblocată (Coloana anterioară, aceeași linie)
-- printr-o deplasare din camera anterioară, aflată sus (d[i - 1][j]), dacă acea cameră este deblocată (Linia anterioară, aceeași coloană)
+`d[i][j] = !b[i][j] * (d[i][j - 1] * !b[i][j - 1] + d[i - 1][j] * !b[i - 1][j])` - În camera de pe poziția <b>i, j</b> se poate ajunge, doar dacă aceasta este deblocată (!b[i][j]), astfel:
+- printr-o deplasare din camera anterioară, aflată în stânga (d[i][j - 1]), dacă acea cameră este deblocată (!b[i][j - 1]) (coloana anterioară, aceeași linie)
+- printr-o deplasare din camera anterioară, aflată sus (d[i - 1][j]), dacă acea cameră este deblocată (!b[i - 1][j]) (linia anterioară, aceeași coloană)
 
-## Soluție - 100P
+## Soluție - 100P - C++ (Cu indexare de la 0)
 ```
 #include <fstream>
 #include <vector>
