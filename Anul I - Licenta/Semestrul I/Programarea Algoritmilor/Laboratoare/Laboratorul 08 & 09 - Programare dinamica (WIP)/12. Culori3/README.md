@@ -20,7 +20,7 @@ Există un singur mod de a vopsi prima scândură cu una dintre culorile puse la
 - `d[i][galben] = d[i - 1][verde]`
 
 ## Observații
-<i>Pentru simplitate, vom codifica cele 5 culori astfel:
+<i>Pentru simplitate, vom codifica cele 5 culori astfel:</i>
 - Albastru = 0, Alb = 1, Rosu = 2, Verde = 3, Galben = 4
 
 ## Soluție - Python (Cu indexare de la 0)
