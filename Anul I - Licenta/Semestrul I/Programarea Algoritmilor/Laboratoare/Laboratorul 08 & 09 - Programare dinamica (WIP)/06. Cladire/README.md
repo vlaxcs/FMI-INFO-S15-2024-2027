@@ -12,7 +12,7 @@
 - printr-o deplasare din camera anterioară, aflată în stânga (d[i][j - 1]) - Coloana anterioară
 - printr-o deplasare din camera anterioară, aflată sus (d[i - 1][j]) - Linia anterioară
 
-## Soluție - 100P
+## Soluție - 100P - C++ (Cu indexare de la 0)
 ```
 #include <fstream>
 #include <algorithm>
