@@ -1,10 +1,11 @@
 # Problema [Culori3](https://www.infoarena.ro/problema/culori3)
 
 ## Stări:
-- d[i][culoare] - Numărul de moduri în care poate fi vopsit un gard, care are scândura <b>i</b> vopsită în culoarea respectivă
+- d[i][culoare] - Numărul de moduri în care poate fi vopsit un gard cu <b>i</b> scânduri, care are scândura <b>i</b> vopsită în culoarea respectivă
 - sum(d[n]) - Numărul total de moduri în care poate fi vopsit un gard cu n scânduri
 
 ## Stări inițiale:
+Există un singur mod de a vopsi prima scândură cu una dintre culorile puse la dispoziție:
 - `d[1][albastru] = 1`
 - `d[1][alb] = 1`
 - `d[1][rosu] = 1`
@@ -19,11 +20,13 @@
 - `d[i][galben] = d[i - 1][verde]`
 
 ## Observații
-<i>Pentru simplitate, vom codifica cele 5 culori astfel:
+<i>Pentru simplitate, vom codifica cele 5 culori astfel:</i>
+
 - Albastru = 0, Alb = 1, Rosu = 2, Verde = 3, Galben = 4
 
 ## Soluție - Python (Cu indexare de la 0)
 <i>Nu primește punctaj pe InfoArena, dar este un prototip bun pentru implementarea soluției în C++</i>
+
 În schimb, primește 100 de puncte pe [PBInfo - Problema Culori2](https://www.pbinfo.ro/probleme/1031/culori2)
 
 ```
@@ -62,12 +65,16 @@ if __name__ == "__main__":
 
 ## Soluție - 100p - C++ (Cu indexare de la 0)
 - Pentru implementarea soluției, ținem cont că trebuie să folosim operații pe numere mari. Avem definite următoarele:
+
 `Funcția 'add(a, b)' pentru a face operația 'a = a + b'.`
+
 `Funcția din <bits/stdc++.h> (sau <bits.h>, <algorithm.h>...) 'memcpy(a, b, sizeof(b))' pentru operația 'a = b'.`
 
 - Redefinim stările:
-- d[1][culoare] - Numărul de posibilități de a vopsi gardul, pentru fiecare culoare, după adăugarea uneia noi.
-- d[0][culoare] - Numărul de posibilități de a vopsi gardul, pentru fiecare culoare, înainte de adăugarea alteia noi.
+  
+`d[1][culoare] - Numărul de posibilități de a vopsi gardul, pentru fiecare culoare, după adăugarea uneia noi.`
+
+`d[0][culoare] - Numărul de posibilități de a vopsi gardul, pentru fiecare culoare, înainte de adăugarea alteia noi.`
 
 ```
 #include <bits/stdc++.h>
