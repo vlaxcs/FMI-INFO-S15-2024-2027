@@ -65,12 +65,16 @@ if __name__ == "__main__":
 
 ## Soluție - 100p - C++ (Cu indexare de la 0)
 - Pentru implementarea soluției, ținem cont că trebuie să folosim operații pe numere mari. Avem definite următoarele:
+
 `Funcția 'add(a, b)' pentru a face operația 'a = a + b'.`
+
 `Funcția din <bits/stdc++.h> (sau <bits.h>, <algorithm.h>...) 'memcpy(a, b, sizeof(b))' pentru operația 'a = b'.`
 
 - Redefinim stările:
-- d[1][culoare] - Numărul de posibilități de a vopsi gardul, pentru fiecare culoare, după adăugarea uneia noi.
-- d[0][culoare] - Numărul de posibilități de a vopsi gardul, pentru fiecare culoare, înainte de adăugarea alteia noi.
+  
+`d[1][culoare] - Numărul de posibilități de a vopsi gardul, pentru fiecare culoare, după adăugarea uneia noi.`
+
+`d[0][culoare] - Numărul de posibilități de a vopsi gardul, pentru fiecare culoare, înainte de adăugarea alteia noi.`
 
 ```
 #include <bits/stdc++.h>
