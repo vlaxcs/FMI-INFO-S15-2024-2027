@@ -8,14 +8,14 @@
 5. [Dinamica06](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2008%20%26%2009%20-%20Programare%20dinamica%20(WIP)/05.%20Dinamica06)
 
 ## Probleme ușoare în 2D
-6. [Cladire](https://www.pbinfo.ro/probleme/392/cladire)
-7. [Cladire1](https://www.pbinfo.ro/probleme/393/cladire1)
-8. [Pacman XI](https://www.pbinfo.ro/probleme/3265/pacman-xi)
-9. [SumTri](https://www.pbinfo.ro/probleme/385/sumtri)
+6. [Cladire](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2008%20%26%2009%20-%20Programare%20dinamica%20(WIP)/06.%20Cladire)
+7. [Cladire1](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2008%20&%2009%20-%20Programare%20dinamica%20(WIP)/07.%20Cladire1)
+8. [Pacman XI](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/blob/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2008%20&%2009%20-%20Programare%20dinamica%20(WIP)/08.%20Pacman%20XI)
+9. [SumTri](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2008%20%26%2009%20-%20Programare%20dinamica%20(WIP)/09.%20Sumtri)
 
 ## Probleme de dificultate medie
-10. [Dinamica01](https://www.pbinfo.ro/probleme/2259/dinamica01)
-11. [Trepte2](https://www.pbinfo.ro/probleme/1991/trepte2)
+10. [Dinamica01](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2008%20%26%2009%20-%20Programare%20dinamica%20(WIP))
+11. [Trepte2](https://github.com/vlaxcs/FMI-INFO-S15-2024-2027/tree/main/Anul%20I%20-%20Licenta/Semestrul%20I/Programarea%20Algoritmilor/Laboratoare/Laboratorul%2008%20%26%2009%20-%20Programare%20dinamica%20(WIP)/11.%20Trepte2)
 12. [Culori3](https://www.infoarena.ro/problema/culori3)
 
 ## Probleme care necesită optimizare

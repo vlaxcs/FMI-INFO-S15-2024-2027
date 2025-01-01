@@ -2,7 +2,7 @@
 <i>Considerăm cifre de la 1 la 9</i>
 
 ## Stare
-- d[i][j] - Numărul submulțimilor cu n cifre, care se termină cu o cifră de paritate j
+- d[i][j] - Numărul submulțimilor cu n cifre, care se termină cu o cifră de paritate <b>j</b>
 
 ## Stări inițale
 - d[1][0] = 4 - Se pot alege 4 cifre pare pentru început: 2, 4, 6, 8

@@ -1,7 +1,7 @@
 # Problema [SumTri](https://www.pbinfo.ro/probleme/385/sumtri)
 
 ## Stare: 
-- d[i][j] - Suma maximă calculată de pe ultima linie până în vârful triunghiului, până în poziția <i>i, j</i>
+- d[i][j] - Suma maximă calculată de pe ultima linie până în vârful triunghiului, până în poziția <b>i, j</b>
 
 ## Stări inițiale
 - d[n][i] preia valoarea corespondentă din triunghi, pentru orice <b>1 <= i <= n</b>
