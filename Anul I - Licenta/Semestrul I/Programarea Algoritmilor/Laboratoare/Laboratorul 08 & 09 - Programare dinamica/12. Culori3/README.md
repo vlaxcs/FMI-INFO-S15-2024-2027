@@ -72,9 +72,9 @@ if __name__ == "__main__":
 
 - Redefinim stările:
   
-`d[1][culoare] - Numărul de posibilități de a vopsi gardul, pentru fiecare culoare, după adăugarea uneia noi.`
+`d[1][culoare] - Numărul de posibilități de a vopsi gardul, pentru fiecare culoare, după adăugarea unei scânduri noi.`
 
-`d[0][culoare] - Numărul de posibilități de a vopsi gardul, pentru fiecare culoare, înainte de adăugarea alteia noi.`
+`d[0][culoare] - Numărul de posibilități de a vopsi gardul, pentru fiecare culoare, înainte de adăugarea unei scânduri noi.`
 
 ```
 #include <bits/stdc++.h>
