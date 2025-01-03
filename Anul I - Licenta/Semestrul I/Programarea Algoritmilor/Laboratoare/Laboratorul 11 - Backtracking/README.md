@@ -1,4 +1,4 @@
-# Laboratoarele 11 - Backtracking
+# Laboratorul 11 - Backtracking
 
 ## Variații ale problemei 'Regina'
 1. [Problema regine cea mai simpla](https://www.pbinfo.ro/probleme/1281/regine1)
