@@ -5,10 +5,10 @@
 
 ## Stări inițiale
 - d[1] = 2 - Se termină cu {2} sau {4}
-- d[2] = 2 * 3 = 6 - Se termină cu {2} sau {4}, la care se adaugă oricare {1}, {3}, ({2} sau {4})
+- d[2] = 2 * 3 = 6 - Se termină cu {2} sau {4}, la care se adaugă oricare dintre {1}, {3}, ({2} sau {4})
 
 ## Relație de recurență
-`d[i] = 3 * d[i - 1]` - Se poate adăuga orice cifră diferită de cea setat anterior
+`d[i] = 3 * d[i - 1]` - Se poate adăuga orice cifră diferită de cea setată anterior
 
 ## Soluție - 80P (Din cauza dimensiunii insuficiente a vectorului)
 ```
