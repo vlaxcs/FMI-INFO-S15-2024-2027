@@ -28,7 +28,7 @@ int main()
 ## Soluție - 100P
 <i>Soluția presupune o optimizare a exponențierii 3<sup>n-1</sup></i>
 
-Se poate observa că starea de recurență `d[i] = 3 * d[i - 1]` începe cu d[1] = 2, deci d[i] = 3<sup>i-1</sup>
+Se poate observa că starea de recurență `d[i] = 3 * d[i - 1]` începe cu d[1] = 2, deci d[i] = 3<sup>i-1</sup>, iar d[n] = 3<sup>n-1</sup> * d[1]
 
 ```
 #include <algorithm>
