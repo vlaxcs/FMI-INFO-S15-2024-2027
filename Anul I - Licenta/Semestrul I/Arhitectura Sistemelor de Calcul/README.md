@@ -63,7 +63,7 @@ NE - Notă extra (Proiecte în grup discutate la curs)
 
 14.11.2024 [Laborator 7]() >
 
-**17.11.2024 | PREZENTAREA TEMEI PENTRU PROIECTUL DE LABORATOR > [Subiecte](/Semestrul%20I/Arhitectura%20Sistemelor%20de%20Calcul/Proiecte/Proiect%20obligatoriu/)**
+**17.11.2024 | PREZENTAREA ENUNȚULUI PENTRU PROIECTUL DE LABORATOR > [Subiecte](/Semestrul%20I/Arhitectura%20Sistemelor%20de%20Calcul/Proiecte/Proiect%20obligatoriu/)**
 
 21.11.2024 [Laborator 8]() >
 
@@ -75,7 +75,7 @@ NE - Notă extra (Proiecte în grup discutate la curs)
 
 19.12.2024 [Laborator 12]() >
 
-**17.11.2024 | PREZENTAREA TEMEI PENTRU PROIECTUL DE LABORATOR (Nota >= 5) > [Subiecte](/Semestrul%20I/Arhitectura%20Sistemelor%20de%20Calcul/Proiecte/Proiect%20obligatoriu/)**
+**17.11.2024 | PREZENTAREA PROIECTULUI DE LABORATOR (Nota >= 5) > [Subiecte](/Semestrul%20I/Arhitectura%20Sistemelor%20de%20Calcul/Proiecte/Proiect%20obligatoriu/)**
 
 09.01.2025 [Laborator 13]() > Pipelining
 
