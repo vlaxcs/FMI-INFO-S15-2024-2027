@@ -47,15 +47,15 @@ NE - Notă extra (Proiecte în grup discutate la curs)
 
 * ### Laboratoare
 
-03.10.2024 [Laborator 1](/Semestrul%20I/Arhitectura%20Sistemelor%20de%20Calcul/Laboratoare/Laboratorul%20I/) > Introducere în C
+03.10.2024 [Laborator 1](../Arhitectura%20Sistemelor%20de%20Calcul/Laboratoare/Laboratorul%20I/) > Introducere în C
 
-10.10.2024 [Laborator 2](/Semestrul%20I/Arhitectura%20Sistemelor%20de%20Calcul/Laboratoare/Laboratorul%20II%20-%20V/) > Introducere în Assembly. Mașină virtuală și GIT (Cap. 1 -> 2)
+10.10.2024 [Laborator 2](../Arhitectura%20Sistemelor%20de%20Calcul/Laboratoare/Laboratorul%20II%20-%20V/) > Introducere în Assembly. Mașină virtuală și GIT (Cap. 1 -> 2)
 
-17.10.2024 [Laborator 3](/Semestrul%20I/Arhitectura%20Sistemelor%20de%20Calcul/Laboratoare/Laboratorul%20II%20-%20V/) > Regiștrii arhitecturii x86. Tipuri de date și structuri de bază. Exemplu de program în x86 (Cap 3.1 -> 3.3)
+17.10.2024 [Laborator 3](../Arhitectura%20Sistemelor%20de%20Calcul/Laboratoare/Laboratorul%20II%20-%20V/) > Regiștrii arhitecturii x86. Tipuri de date și structuri de bază. Exemplu de program în x86 (Cap 3.1 -> 3.3)
 
-24.10.2024 [Laborator 4](/Semestrul%20I/Arhitectura%20Sistemelor%20de%20Calcul/Laboratoare/Laboratorul%20II%20-%20V/) > Programe în ASM si Debug. Hello, world! în Assembly. Operații aritmetice si logice. Salturi condiționate si necondiționate (Cap 3.4 -> 3.7)
+24.10.2024 [Laborator 4](../Arhitectura%20Sistemelor%20de%20Calcul/Laboratoare/Laboratorul%20II%20-%20V/) > Programe în ASM si Debug. Hello, world! în Assembly. Operații aritmetice si logice. Salturi condiționate si necondiționate (Cap 3.4 -> 3.7)
 
-31.10.2024 [Laborator 5](/Semestrul%20I/Arhitectura%20Sistemelor%20de%20Calcul/Laboratoare/Laboratorul%20II%20-%20V/) > Tablouri unidimensionale. Inline Assembly (Cap 3.8)
+31.10.2024 [Laborator 5](../Arhitectura%20Sistemelor%20de%20Calcul/Laboratoare/Laboratorul%20II%20-%20V/) > Tablouri unidimensionale. Inline Assembly (Cap 3.8)
 
 **31.10.2024 | TEST LABORATOR > [Subiecte și barem](https://drive.google.com/file/d/1TDFnZe8cdy2Ky_BLvz2Ru8ibCIld2u7X/view?usp=drive_link)**
 
