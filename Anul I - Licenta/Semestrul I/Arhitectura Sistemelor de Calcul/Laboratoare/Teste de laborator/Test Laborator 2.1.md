@@ -25,7 +25,7 @@ movb $2, %al    -> eax = 0000.0000.0000.0000.0000.0100.0000.0010
 
 Răspuns: A) 1026
 
-<br>
+---
 
 1. (2.3) Ce valoare va reține registrul CH după executarea instrucțiunii `movl $553, %ecx`?
 
@@ -56,7 +56,7 @@ AH se desface în binar, astfel: 0000.0002, iar în decimal este 2
 
 Răspuns: B) 2
 
-<br>
+---
 
 2. (2.1) Ordonați crescător în funcție de spațiul ocupat în memorie următoarele declarații:
 ```
@@ -92,7 +92,7 @@ d - ocupă 20 bytes
 Răspuns:
 C) b, a, d, c
 
-<br> 
+--- 
 
 2. (2.2) Ordonați crescător în funcție de spațiul ocupat în memorie următoarele declarații:
 ```
@@ -127,7 +127,7 @@ d - ocupă 50 bytes
 Răspuns:
 B) c, a, b, d
 
-<br>
+---
 
 2. (2.3) Ordonați crescător în funcție de spațiul ocupat în memorie următoarele declarații:
 ```
@@ -162,7 +162,7 @@ y - ocupă 4 bytes
 Răspuns:
 D) ch, y, v, str
 
-<br>
+---
 
 3. (2.1) Care este valoarea maximă pe care o poate lua n în următoarea declarație?
 ```
@@ -185,7 +185,7 @@ Așadar, din teoria de la cursul de ASC ar trebui să știm că pe 16 biți (uns
 Răspuns:
 C) 2^16 - 1
 
-<br>
+---
 
 3. (2.2) Care este valoarea maximă pe care o poate lua n în următoarea declarație?
 ```
@@ -208,7 +208,7 @@ Așadar, din teoria de la cursul de ASC ar trebui să știm că pe 8 biți (unsi
 Răspuns:
 A) 255
 
-<br>
+---
 
 3. (2.3) Care este valoarea maximă pe care o poate stoca registrul `DX`?
 
@@ -234,7 +234,7 @@ Valoarea maximă care poate fi stocată pe 2 bytes (16 biți) = 2^16 - 1
 
 Răspuns: A) 2^16 - 1
 
-<br>
+---
 
 4. (2.1) Se consideră declarațiile:
 ```
@@ -269,7 +269,7 @@ eax = 0000.0000.0000.0002.0000.0000.0000.0001
 Răspuns:
 C) 0x00020001
 
-<br>
+---
 
 4. (2.2) Se consideră declarațiile:
 ```
@@ -297,7 +297,7 @@ x are valoarea 1, iar y are valoarea 0
 ```
 Răspuns: A) 1
 
-<br>
+---
 
 4. (2.3) În instrucțiunea pentru întreruperea hardware, `int $0x80`, parametrul <b>0x80</b> este prefixat de simbolul $. Care este seminificația acestui simbol în contextul curent?
 
@@ -314,7 +314,7 @@ Simbolul $ este utilizat atât pentru prefixarea constantelor, cât și pentru p
 
 Răspuns: B)
 
-<br>
+---
 
 5. (2.1/2.2) Fie următoarea declarare în secțiunea .data:
 ```
@@ -343,7 +343,7 @@ Răspunsuri:
 B) Un array de 25 de long-uri
 D) Un array de 50 de word-uri
 
-<br>
+---
 
 5. (2.3) Care dintre următoarele instrucțiuni efectuează o interschimbare corectă a valorilor din variabilele de tipul .long x și y?
 
@@ -406,7 +406,7 @@ eax = edx (y)
 
 Răspuns: Această întrebare nu are un răspuns corect.
 
-<br>
+---
 
 6. (2.1) Fie următoarea declarare din secțiunea `.data`:
 ```
@@ -446,7 +446,7 @@ Așadar, în %ecx sunt setați primii 3 bytes găsiți la adresa lui str1, iar �
 Răspuns:
 B) abc1
 
-<br>
+---
 
 6. (2.2) Fie următoarea declarare în secțiunea `.data`:
 ```
@@ -469,7 +469,7 @@ Rezolvare:
 ```
 
 
-<br>
+---
 
 
 7. În apelul sistem WRITE, șirul este încărcat în %ecx cu simbolul $. De exemplu, pentru `str: .asciz "Sir"`, încărcarea în %ecx se va face cu $str. Care este scopul acestui simbol?
