@@ -53,7 +53,11 @@ NE - Notă extra (Proiecte în grup discutate la curs)
 
 17.10.2024 [Laborator 3](../Arhitectura%20Sistemelor%20de%20Calcul/Laboratoare/Laboratorul%20II%20-%20V/) > Regiștrii arhitecturii x86. Tipuri de date și structuri de bază. Exemplu de program în x86 (Cap 3.1 -> 3.3)
 
+[**Teste de laborator cu materia parcursă până în laboratorul 3**](./Laboratoare/Teste%20de%20laborator/Test%20Laborator%202.md)
+
 24.10.2024 [Laborator 4](../Arhitectura%20Sistemelor%20de%20Calcul/Laboratoare/Laboratorul%20II%20-%20V/) > Programe în ASM si Debug. Hello, world! în Assembly. Operații aritmetice si logice. Salturi condiționate si necondiționate (Cap 3.4 -> 3.7)
+
+[**Teste de laborator cu materia parcursă până în laboratorul 4*](./Laboratoare/Teste%20de%20laborator/Test%20Laborator%203.md)
 
 31.10.2024 [Laborator 5](../Arhitectura%20Sistemelor%20de%20Calcul/Laboratoare/Laboratorul%20II%20-%20V/) > Tablouri unidimensionale. Inline Assembly (Cap 3.8)
 

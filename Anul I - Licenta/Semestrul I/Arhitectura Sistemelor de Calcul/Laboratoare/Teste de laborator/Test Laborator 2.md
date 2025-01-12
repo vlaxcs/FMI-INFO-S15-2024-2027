@@ -1,5 +1,12 @@
 # Test de Laborator (2.1 & 2.2 & 2.3)
 
+## Subiecte
+- [Test 2.1](./Test%20Laborator%202.1.pdf)
+- [Test 2.2](./Test%20Laborator%202.2.pdf)
+- [Test 2.3](./Test%20Laborator%202.3.pdf)
+
+---
+
 1. (2.1/2.2) Ce valoare va reține EAX după executarea următoarei secvențe de instrucțiuni?
 ```
 movl $0, %eax
@@ -433,14 +440,15 @@ Rezolvare:
 ```
 Observăm ce se petrece cu instrucțiunea 
 movl $str1, %ecx
+movl $4, %edx
 
-În %ecx sunt setați primii 4 bytes care se găsesc la adresa lui str1 din .data.
+În %ecx este transmis un buffer de lungime $4 bytes, care începe la adresa lui str1 din .data.
 
 În .data, avem următoarele:
 str1: .ascii "abc" (reprezentat pe 3 bytes (fiecare caracter pe un byte), iar șirul nu are terminator (e de tip ascii))
 str2: .ascii "1" (reprezentat pe 1 byte, ar fi pe 2 dacă ar avea terminator, dar e .ascii, la fel ca cel de sus)
 
-Așadar, în %ecx sunt setați primii 3 bytes găsiți la adresa lui str1, iar în continuare, încă 1 byte găsit în continuarea adresei lui str1, adică primul caracter din str2.
+Așadar, în %ecx este setat un buffer alcătuit din primii 3 bytes găsiți la adresa lui str1, iar în continuare, încă 1 byte găsit în continuarea adresei lui str1, adică primul caracter din str2.
 ```
 
 Răspuns:
@@ -449,6 +457,12 @@ B) abc1
 ---
 
 6. (2.2) Fie următoarea declarare în secțiunea `.data`:
+```
+str1: .ascii "abc"
+str2: .ascii "1"
+```
+
+Ce se va afișa în urma apelului WRITE următor?
 ```
 movl $4, %eax
 movl $1, %ebx
@@ -465,14 +479,44 @@ D) abc + o valoare reziduală
 
 Rezolvare:
 ```
+Observăm ce se petrece cu instrucțiunea 
+movl $str1, %ecx
+movl $5, %edx
 
+În %ecx este transmis un buffer de lungime $5 bytes, care începe la adresa lui str1 din .data.
+
+În .data, avem următoarele:
+str1: .ascii "abc" (reprezentat pe 3 bytes (fiecare caracter pe un byte), iar șirul nu are terminator (e de tip ascii))
+str2: .ascii "123" (reprezentat pe 3 bytes, ar fi pe 4 dacă ar avea terminator, dar e .ascii, la fel ca cel de sus)
+
+Așadar, în %ecx este transmis un buffer alcătuit din primii 3 bytes găsiți la adresa lui str1, iar în continuare, încă 2 bytes găsiți în continuarea adresei lui str1, adică primele două caractere din str2.
 ```
 
+Răspuns: B) abc12
 
 ---
 
+6. (2.3) Nu sunt utilizate greșit următoarele instrucțiuni mov, cu excepția:
 
-7. În apelul sistem WRITE, șirul este încărcat în %ecx cu simbolul $. De exemplu, pentru `str: .asciz "Sir"`, încărcarea în %ecx se va face cu $str. Care este scopul acestui simbol?
+Grilă:
+A) mov %eax, %ebx
+B) mov $4, %eax
+C) mov %ecx, $1
+D) mov $4, %edx
+
+Rezolvare:
+```
+Observăm că se încearcă suprascrierea unei valori constante în operația:
+C) mov %ecx, $1
+Acest procedeu este imposibil, evident.
+```
+
+Răspuns:
+D) mov %ecx, $1
+
+---
+
+7. (2.1/2.2) În apelul sistem WRITE, șirul este încărcat în %ecx cu simbolul $. De exemplu, pentru `str: .asciz "Sir"`, încărcarea în %ecx se va face cu $str. Care este scopul acestui simbol?
 
 Grilă:
 A) Semnifică faptul că șirul este constant
@@ -489,8 +533,50 @@ Așadar, $str semnifică preluarea adresei din memorie pentru str.
 Răspuns:
 C) Seminifică preluarea adresei din memorie pentru `str`
 
+---
 
-8. Fie următorul program:
+7. (2.3) Fie următoarea declarare în secțiunea `.data`:
+```
+str1: .ascii "1234"
+x: .byte 97
+```
+
+Ce se va afișa în urma apelului WRITE următor?
+```
+movl $4, %eax    
+movl $1, %ebx    
+movl $str, %ecx    
+movl $5, %edx
+```
+
+Grilă:
+A) 1234
+B) 1234a
+C) 12349
+D) 123497
+E) 1234a9
+F) 1234a97
+
+Rezolvare:
+```
+Observăm ce se petrece cu instrucțiunea 
+movl $str1, %ecx
+movl $5, %edx
+
+În %ecx este transmis un buffer de lungime $5 bytes, care începe la adresa lui str1 din .data.
+
+În .data, avem următoarele:
+str1: .ascii "abc" (reprezentat pe 3 bytes (fiecare caracter pe un byte), iar șirul nu are terminator (e de tip ascii))
+x: .byte 97 (reprezentat pe 1 byte (la fel ca un caracter))
+
+Așadar, în %ecx este setat un buffer de lungime 5 care începe la adresa lui str și continuă cu 5 - 4 = 1 byte în următoarele zone din memorie. Următoarea zonă este .byte 97, iar dacă ne aducem aminte tabelul de coduri ASCII, putem considera aceasta o declarare char(97), adică 'a'.
+```
+
+Răspuns: B) 1234a
+
+---
+
+8. (2.1) Fie următorul program:
 
 ```
 .data
@@ -545,7 +631,7 @@ Rezolvare:
 4. stepi -> Execută mov y, %ah
 
     Observăm din nou că se folosește mov, dar de data aceasta registrul destinație este %ah (de 1 byte). 
-    Se iau primii 8 biți referiți de adresa lui y și se pun în %ah, peste cei existenți. 
+    Se iau primii 8 biți referiți de adresa lui y (de la LSB la MSB) și se pun în %ah, peste cei existenți. 
     Restul celor 16 (din stânga) și 8 biți (din dreapta) rămân intacți.
 
     Înainte:
@@ -553,6 +639,7 @@ Rezolvare:
     %eax = 0x04030201
 
     După:        
+    y = 0x080706(05)
                 AHAL
     %eax = 0x0403__01
     %eax = 0x04030501
@@ -560,3 +647,166 @@ Rezolvare:
 
 Răspuns:
 D) 0x04030501
+
+---
+
+8. (2.2) Fie următorul program:
+
+```
+.data
+x: .long 0x04030201
+y: .long 0x08070605
+
+.text
+.global main
+main:
+
+mov x, %eax
+mov y, %al
+
+mov $1, %eax
+mov $0, %ebx
+int $0x80
+```
+
+Acestea se compilează și executabilul se rulează folosind gdb. În gdb se vor da următoarele comenzi:
+
+```
+b main
+run
+stepi
+stepi
+```
+
+Ce valoare va fi afișată în %eax în urma rulării comenzii `i r`?
+
+Grilă:
+A) 0x04030201
+B) 0x08070605
+C) 1
+D) 0x04030501
+E) 0x04030205
+
+Rezolvare:
+```
+1. b main
+    Pune un breakpoint pe adresa label-ului main:
+
+2. run
+    Rulează executabilul, setează instruction point-ul la prima instrucțiune găsită
+
+3. stepi -> Execută mov x, %eax
+
+    Observăm că se folosește mov, nu movl. Așadar, în %eax sunt folosiți cei 4 bytes referiți de adresa lui x. %eax are tot 4 bytes, deci valoarea setată este doar cea a lui x. 
+    (Ne raportăm mereu la 4 bytes dacă avem un registru întreg (%eax, %ebx, etc...) și nu se specifică tipul de date în operație)
+
+    %eax = 0x04030201
+
+4. stepi -> Execută mov y, %al
+
+    Observăm din nou că se folosește mov, dar de data aceasta registrul destinație este %al (de 1 byte). 
+    Se iau primii 8 biți (de la LSB la MSB) referiți de adresa lui y și se pun în %al, peste cei existenți. 
+    Restul celor 24 (din stânga) rămân intacți.
+
+    Înainte:
+                AHAL
+    %eax = 0x04030201
+
+    După:        
+      y = 0x080706(05)
+                 AHAL
+    %eax = 0x040302__
+    %eax = 0x04030205
+```
+
+Răspuns:
+E) 0x04030205
+
+---
+
+8. (2.3) Fie următorul program. Precizați secvența corectă de instrucțiuni în debugger, în urma căreia vom obține valoarea 8.
+
+```
+.data
+.text
+.global main
+main:
+movl $8, %eax
+movl $2048, %ecx
+
+et_exit:
+movl $1, %eax
+movl $0, %ebx
+int $0x80
+```
+
+Grilă:
+A) b main; run; stepi; stepi; i r cl
+B) b main; run; stepi; stepi; i r ch
+C) b main; run; i r eax
+D) b main; run; stepi; i r ah
+
+Rezolvare:
+```
+A) b main; run; stepi; stepi; i r cl
+Se execută primele două instrucțiuni din main:
+> movl $1, %eax
+> movl $2048, %ecx
+Apoi se interoghează CL.
+Dacă ne aducem aminte structura unui registru, avem ordinea (____<16>CH<8>CL<8>).
+Încercăm să scriem $2048 în baza 2, întrucât se observă că este putere a lui 2:
+2048 = 2^11 => Ocupă 8 biți din CL, apoi încă 4 din CH
+Avem:
+                          |    CH   |    CL   |
+%ecx = 0000.0000.0000.0000.0000.1000.0000.0000
+
+=> (A - INCORECT) Interogarea lui CL rezultă 0, dar observăm că poate fi utilă interogarea lui CH după aceleași operații.
+
+B) b main; run; stepi; stepi; i r ch
+Analog cu A), dar ne uitămm asupra lui CH
+
+Avem:
+                          |    CH   |    CL   |
+%ecx = 0000.0000.0000.0000.0000.1000.0000.0000
+CH: 0b00001000 = 0x8 = 8
+
+=> B - CORECT
+
+C) b main; run; i r eax
+Ne așteptăm să avem valoarea $8 în %eax după prima instrucțiune, însă aici încă nu a fost executată prima instrucțiune, ci doar a fost setat un instruction pointer.
+=> C - INCORECT
+
+D) b main; run; stepi; i r ah
+A fost executată prima instrucțiune din main:
+> movl $1, %eax
+Dacă ne aducem aminte structura unui registru, avem ordinea (____<16>AH<8>AL<8>).
+Valoarea $1 stă în AL (0x01), în vreme ce noi interogăm AH.
+=> D - INCORECT
+```
+
+Răspuns:
+B) b main; run; stepi; stepi; i r ch
+
+---
+
+9. (2.3) Fie următoarea declarație în secțiunea .data:
+```
+v: .space 120
+```
+Acest spațiu se poate utiliza pentru a reține ulterior:
+
+Grilă:
+A) Un array de 60 de wong-uri
+B) Un array de 60 de long-uri
+C) Un array de 30 de long-uri
+
+Rezolvare:
+```
+A) Un array de 60 de wong-uri   = 60 * 2 = 120 bytes (E bine)
+B) Un array de 60 de long-uri   = 60 * 4 = 240 bytes (Nu e bine)
+C) Un array de 30 de long-uri   = 30 * 4 = 120 bytes (E bine)
+```
+
+Răspuns:
+A) Un array de 60 de wong-uri
+C) Un array de 30 de long-uri
