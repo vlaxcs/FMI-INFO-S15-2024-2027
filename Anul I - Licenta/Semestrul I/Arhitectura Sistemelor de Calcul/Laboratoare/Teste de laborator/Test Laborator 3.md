@@ -57,8 +57,58 @@ et_exit:
     mov $0, %ebx
     int $0x80
 ```
+
 Răspuns:
 A) 1
+
+---
+
+1. (3.2) Fie codul de mai jos. Care sunt valorile lui `%eax` și `%edx` când execuția ajunge la `label`?
+
+```
+.data
+    x: .long 17
+    y: .long 6
+.text
+.global main
+main:
+    mov $1, %edx
+    mov x, %eax
+    jmp et
+    mov $0, %edx
+et:
+    divl y
+label:
+    mov $1, %eax
+    mov $0, %ebx
+    int $0x80
+```
+
+Grilă:
+A) eax = 0x2aaaaaad, edx = 0x3
+B) eax = 0x2, edx = 0x5
+C) eax = 0x5, edx = 0x2
+D) eax = 0x3, edx = 0x2aaaaaad
+
+Rezolvare:
+```
+Urmărim instrucțiunile din cod:
+mov $1, %edx    <=> %edx = 1
+mov x, %eax     <=> %eax = x = 17 = 2^4 + 1
+jmp et           -> sare la et, este salt necondiționat
+
+divl y          <=> %eax = (1 * 2^32 + 2^4 + 1) / (2^2 + 2)
+
+eax:
+(OF1).0000.0000.0000.0000.0000.0000.0001.0001 :
+                                          101
+----------------------------------------------
+      0010.1010.1010.1010.1010.1010.1010.1101 = 0x2aaaaad = %eax
+                                           011 (rest) = 3 = %edx
+```
+
+Răspuns:
+A) %eax = 0x2aaaaaad, edx = 0x3
 
 ---
 
@@ -106,6 +156,7 @@ div %ebx <=>   (%eax, %edx) = (%eax / %ebx, %eax % %ebx)
 
 Deci, %eax = 3 și %edx = 2
 ```
+
 Răspuns:
 A) eax = 3, edx = 2
 
@@ -150,6 +201,8 @@ Valorile comparate nu sunt egale, așadar nu se va face jump la label.
 
 Valoarea lui %ecx la etexit este, așadar, $5.
 ```
+
+Răspuns:
 A) 5
 
 ---
