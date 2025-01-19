@@ -11,7 +11,7 @@
 `d[i] = d[i - 1] + d[i - 2] + 1`
 
 - d[i - 1] - <i>Nu îl adăugam pe i submultimile anterioare</i>
-- d[i - 2] - <i>În adăugăm la orice submulțime anterioară, dar nu în cea învecinată</i>
+- d[i - 2] - <i>Îl adăugăm la orice submulțime anterioară, dar nu în cea învecinată</i>
 - 1 - <i>Îl adăugăm în submulțimea formată doar din elementul</i>
 
 ## Soluție
