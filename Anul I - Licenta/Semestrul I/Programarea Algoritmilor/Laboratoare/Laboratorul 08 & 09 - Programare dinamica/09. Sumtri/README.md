@@ -8,7 +8,7 @@
 
 ## Relație de recurență
 `d[i][j] = triangle[i][j] + max(d[i + 1][j], d[i + 1][j + 1])`
-- De pe penultima spre prima linie, de la stânga la dreapta, vom calcula suma curentă ca fiind maximul dintre <b><i>valoarea de pe linia anterioară și aceeași coloană (d[i + 1][j])</i></b> și <b><i>valoarea de pe linia anterioară și coloana vecină la dreapta (d[i + 1][j + 1])</i><b>. La acest maxim adăugăm valoarea corespondentă din triunghi
+- De pe penultima spre prima linie, de la stânga la dreapta, vom calcula suma curentă ca fiind maximul dintre <b><i>valoarea de pe linia anterioară și aceeași coloană (d[i + 1][j])</i></b> și <b><i>valoarea de pe linia anterioară și coloana vecină la dreapta (d[i + 1][j + 1])</i></b>. La acest maxim adăugăm valoarea corespondentă din triunghi
 
 ## Soluție - 100P - Python (Cu indexare de la 0)
 ```
