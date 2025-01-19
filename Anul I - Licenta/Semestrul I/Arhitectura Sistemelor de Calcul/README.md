@@ -1,5 +1,3 @@
-
-
 # [E] Arhitectura Sistemelor de Calcul (Informatică)
 ~ *ArhSistCalc / ASC*
 
@@ -10,6 +8,8 @@ Laborator: TEODOR IVASCIUC IANCU
 [Fișă de curs](https://cursuri.fmi.unibuc.ro/api/uploads/0a837b11-f157-4b1b-9b66-e742fb5d4ced.pdf)
 
 [Resurse curs](https://cs.unibuc.ro/~crusu/asc/)
+
+
 
 * ### Calculul notei semstriale
 
@@ -85,4 +85,4 @@ NE - Notă extra (Proiecte în grup discutate la curs)
 
 14.01.2025 [Laborator 14]() > **COLOCVIU / TEST DE LABORATOR (Nota >= 5)**
 
-### **4 credite | Curs <5> | Laborator <13/14> | Seminar <4>**
+### **4 credite | Curs <5> | Laborator <14/14> | Seminar <4>**
