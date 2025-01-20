@@ -43,6 +43,10 @@ NEL = Notă examen laborator: 1 - 10 >= 5 (Se poate susține o singură dată)
 
 18.12.2024 [Curs 12](./Cursuri/12.%20Programarea%20Dinamică%20-%2018.12.2024.pdf) > Tehnica Programării Dinamice
 
+08.01.2025 [Curs 13](./Cursuri/13.%20Programarea%20Dinamică%20-%2008.01.2025.pdf) > Tehnica Programării Dinamice
+
+15.01.2025 [Curs 14](./Cursuri/14.%20Tehnica%20Backtracking%20-%2015.01.2025.pdf) > Tehnica Backtracking
+
 * ### Seminare
 
 02.10.2024 [Seminar 1](./Seminare/Seminarul%201/) > Operații pe biți
