@@ -26,23 +26,23 @@ NP - Notă proiect (Proiecte în grupuri de câte 2-3 studenți)
 
 15.10.2024 [Curs 3](./Cursuri/03.%20Interpretorul%20de%20comenzi%20-%2015.10.2024.pdf) > Interpretorul de comenzi 
 
-22.10.2024 [Curs 4](./Cursuri/04.%20Fișiere%20și%20directoare.%20Procese.pdf) > Fișiere și directoare. Procese
+22.10.2024 [Curs 4](./Cursuri/04.%20Fișiere%20și%20directoare.%20Procese%20-%2022.10.2024.pdf) > Fișiere și directoare. Procese
 
-29.10.2024 [Curs 5](./Cursuri/05%20&%2006.%20Programare%20în%20Shell.%20Scripturi.%20Variabile.pdf) > Programarea în Shell. Scripturi. Variabile
+29.10.2024 [Curs 5](./Cursuri/05%20&%2006.%20Programare%20în%20Shell.%20Scripturi.%20Variabile%20-%2029.10.2024.pdf) > Programarea în Shell. Scripturi. Variabile
 
-05.11.2024 [Curs 6](./Cursuri/05%20&%2006.%20Programare%20în%20Shell.%20Scripturi.%20Variabile.pdf) > Teste. Instrucțiuni. Funcții
+05.11.2024 [Curs 6](./Cursuri/05%20&%2006.%20Programare%20în%20Shell.%20Scripturi.%20Variabile%20-%2029.10.2024.pdf) > Teste. Instrucțiuni. Funcții
 
-12.11.2024 [Curs 7](./Cursuri/07.%20Filtre.%20Editarea%20automată%20și%20procesată%20a%20textelor.pdf) > Filtre. Editarea automată și procesată a textelor
+12.11.2024 [Curs 7](./Cursuri/07.%20Filtre.%20Editarea%20automată%20și%20procesată%20a%20textelor%20-%2012.11.2024.pdf) > Filtre. Editarea automată și procesată a textelor
 
-19.11.2024 [Curs 8](./Cursuri/08.%20Perspectiva%20user%20și%20cea%20system,%20servicii.pdff) > Perspectiva User. Perspectiva System. Servicii
+19.11.2024 [Curs 8](./Cursuri/08.%20Perspectiva%20user%20și%20cea%20system,%20servicii%20-%2019.11.2024.pdf) > Perspectiva User. Perspectiva System. Servicii
 
-26.11.2024 [Curs 9](./Cursuri/09.%20Demoni%20și%20gestiunea%20timpului.pdf) > Demoni. Gestiunea Timpului
+26.11.2024 [Curs 9](./Cursuri/09.%20Demoni%20și%20gestiunea%20timpului%20-%2026.11.2024.pdf) > Demoni. Gestiunea Timpului
 
-03.12.2024 [Curs 10](./Cursuri/10.%20Stocarea%20datelor.pdf) > Stocarea datelor
+03.12.2024 [Curs 10](./Cursuri/10.%20Stocarea%20datelor%20-%2003.12.2024.pdf) > Stocarea datelor
 
-10.12.2024 [Curs 11](./Cursuri/11.%20Lucrul%20în%20rețea.%20Concepte.%20Exemple%20de%20protocoale.pdf) > Lucrul în rețea. Concepte. Exemple de protocoale
+10.12.2024 [Curs 11](./Cursuri/11.%20Lucrul%20în%20rețea.%20Concepte.%20Exemple%20de%20protocoale%20-%2010.12.2024.pdf) > Lucrul în rețea. Concepte. Exemple de protocoale
 
-17.12.2024 [Curs 12](./Cursuri/12.%20Compilarea,%20linkarea,%20depanarea%20și%20gestiunea%20programelor.pdf) > Compilarea, linkarea, depanarea programelor și gestiunea proiectelor de programare
+17.12.2024 [Curs 12](./Cursuri/12.%20Compilarea,%20linkarea,%20depanarea%20și%20gestiunea%20programelor%20-%2017.12.2024.pdf) > Compilarea, linkarea, depanarea programelor și gestiunea proiectelor de programare
 
 
 * ### Laboratoare
