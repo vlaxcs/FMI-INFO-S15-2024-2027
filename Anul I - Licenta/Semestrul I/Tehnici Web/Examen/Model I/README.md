@@ -7,7 +7,7 @@
 - divurile să aibă padding de 20px
 - divurile A, B, C, D vor avea border alb, dashed, de 2px
 
-<img alt="grid" src="resources/images/grid.png" width="500px">
+<img alt="grid" src="./grid.png" width="500px">
 
 2. Scrieți un media query pentru ferestre cu lățimea între 200px și 6oopx astfel încât divurile A, B, C, D să nu mai fie afișate cu layoutul de mai sus, ci în formatul default, unele sub altele, ocupând întreaga lațime a containerului.
 
@@ -23,14 +23,14 @@
 
 6. Scrieți un fișier HTML `magic.html` astfel încât să desenați, folosind fie elementul `canvas` (și cod JavaScript), fie cod CSS, un [8 magic ball](https://en.wikipedia.org/wiki/Magic_8_Ball) ca în imaginea de mai jos.
 
-<img alt="8 magic ball" src="resources/images/magic.png" width="200px">
+<img alt="8 magic ball" src="./magic.png" width="200px">
 
 Dacă nu știți să desenați magic ball-ul folosind canvas sau CSS, puteți folosi imaginea 'resources/images/magic.png' pentru a continua rezolvarea subiectului (cu punctaj parțial, pentru neîndeplinirea primei cerințe).
 
 7. Voi întrebați, bila răspunde: la apăsarea bilei, discul alb din centrul bilei se va colora în roșu, verde, sau portocaliu. 
 Scrieți un handler corespunzător evenimentului de click astfel încât să afișați unul din posibilele răspunsuri pe care le poate întoarce 8 magic ball-ul. Răspunsurile sunt salvate în fișierul `magic.json` pe un server http local (porniți un server http folosind, de exemplu, Python). Folosiți fetch și promisiuni pentru a accesa conținutul fișierului. La fiecare click pe bilă, se va alege aleator unul din posibilele răspunsuri. Dacă răspunsul ales este afirmativ, discul alb se va colora verde; dacă răspunsul este negativ, discul se va colora roșu; altfel, se va colora portocaliu. Afișați sub bilă și mesajul răspunsului ales, colorat cu aceeași culoare ca discul din centrul bilei.
 
-<img alt="8 magic ball" src="resources/images/magic-maybe.png" width="200px">
+<img alt="8 magic ball" src="./magic-maybe.png" width="200px">
 
 
 

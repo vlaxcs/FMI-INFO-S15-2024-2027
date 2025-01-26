@@ -44,6 +44,8 @@ NP - Notă proiect (Proiecte în grupuri de câte 2-3 studenți)
 
 17.12.2024 [Curs 12](./Cursuri/12.%20Compilarea,%20linkarea,%20depanarea%20și%20gestiunea%20programelor%20-%2017.12.2024.pdf) > Compilarea, linkarea, depanarea programelor și gestiunea proiectelor de programare
 
+**23.01.2025 | EXAMEN > [Subiecte](./Examen/Examen%20-%20Ianuarie%202025.pdf)**
+
 
 * ### Laboratoare
 
