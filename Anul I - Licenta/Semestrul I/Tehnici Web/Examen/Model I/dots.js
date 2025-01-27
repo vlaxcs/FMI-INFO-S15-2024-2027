@@ -7,37 +7,28 @@ function genDots(color, size){
     const randomY = Math.random() * window.innerHeight;
     dot.style.left = `${randomX}px`;
     dot.style.top = `${randomY}px`;
-
     dot.style.padding = `${size}px`;
-    
     dot.style.borderRadius = "50%";
 
     dot.addEventListener("click", (event) => {
         genDots(color, size);
     });
-
+    updateCounter();
     document.body.appendChild(dot);
 }
 
-window.onload = async function(){
-    
-    let clickCount = 0;
-    localStorage.setItem("clickCount", clickCount);
-    
-    let counter = document.createElement("p");
-    counter.innerHTML = clickCount
-    document.body.appendChild(counter);
-
+function createRange(){
     let sizerContainer = document.createElement("div");
     sizerContainer.style.zIndex = "1001";
     sizerContainer.width = "200";
     sizerContainer.height = "100";
     sizerContainer.id = "sizerContainer";
+    sizerContainer.style.zIndex = "1001";
     document.body.appendChild(sizerContainer);
 
     toAppend = document.getElementById("sizerContainer");
 
-    let sizer = document.createElement("input");
+    const sizer = document.createElement("input");
     sizer.type = "range";
     sizer.id = "dotsize";
     sizer.name = "dotsize";
@@ -45,6 +36,28 @@ window.onload = async function(){
     sizer.max = "150";
     sizer.style.zIndex = "1001";
     toAppend.appendChild(sizer);
+}
+
+function updateCounter(){
+    currentCounter = document.getElementById("dotCounter");
+    if (currentCounter == null) {
+        localStorage.setItem("clickCount", 0);
+        counter = document.createElement("p");
+        counter.innerHTML = 0;
+        counter.id = "dotCounter";
+        document.body.appendChild(counter);
+    }
+    else {
+        clickCount = localStorage.getItem("clickCount");
+        clickCount++;
+        currentCounter.innerHTML = clickCount;
+        localStorage.setItem("clickCount", clickCount);
+    }
+}
+
+window.onload = async function(){
+    updateCounter();
+    createRange();
 
     document.addEventListener('keydown', function (event) {
         range = document.getElementById("dotsize");
@@ -64,9 +77,5 @@ window.onload = async function(){
                 genDots("yellow", size);
                 break;
         }
-        clickCount = localStorage.getItem("clickCount");
-        clickCount++;
-        counter.innerHTML = clickCount
-        localStorage.setItem("clickCount", clickCount);
     });
 }
