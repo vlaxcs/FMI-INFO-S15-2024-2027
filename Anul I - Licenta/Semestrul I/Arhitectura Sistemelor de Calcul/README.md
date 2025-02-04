@@ -26,23 +26,33 @@ NE - Notă extra (Proiecte în grup discutate la curs)
 
 * ### Cursuri
 
-01.10.2024 [Curs 1](https://drive.google.com/file/d/1JN7B1p4hp4U5BtxB9W20ZBQu00DfKNek/view) > Informații administrative
+01.10.2024 [Curs 1](./Cursuri/Curs%200x00.pdf) > Informații administrative
 
-08.10.2024 [Curs 2](https://drive.google.com/file/d/10m-SnsqiFnQc3BX17uME3sgC9ASY2BUM/view) > Evoluția sistemelor de calcul și sistemul binar de calcul
+08.10.2024 [Curs 2](./Cursuri/Curs%200x01.pdf) > Evoluția sistemelor de calcul și sistemul binar de calcul
 
-15.10.2024 [Seminar C2](https://drive.google.com/file/d/1vLNEtKqk0QMaUiGDmfjQ0HxP9lDIiESI/view) > Operații pe biți > [Rezolvări seminar](https://drive.google.com/file/d/10h5KJuhwnp_Ggsf2pppzkGSFhBJ8sgTv/view?usp=drive_link)
+15.10.2024 [Seminar - pentru cursul 2](./Seminare/Seminarul%20I/Seminar%200x00.pdf) > Operații pe biți > [Rezolvări seminar](./Seminare/Seminarul%20I/Rezolvări.pdf)
 
-22.10.2024 [Curs 3](https://drive.google.com/file/d/18VF_JUoHBfDIshZRx-B_TDdJ2OWBbuRC/view) > Introducere în teoria informației
+22.10.2024 [Curs 3](./Cursuri/Curs%200x02.pdf) > Introducere în teoria informației
 
-29.10.2024 [Seminar C3](https://drive.google.com/file/d/1BZzTmnnuhlov9Evajdxrwc3P24kEgPMP/view) > Introducere în teoria informației > [Rezolvări seminar](https://drive.google.com/file/d/1IfQyHyDQ97kaOeJXQKIlYVWXsoVZll6R/view)
+29.10.2024 [Seminar - pentru cursul 3](./Seminare/Seminarul%20II/Seminar%200x01.pdf) > Introducere în teoria informației > [Rezolvări seminar](./Seminare/Seminarul%20II/Rezolvări.pdf)
 
-05.11.2024 [Curs 4](https://drive.google.com/file/d/1GphkGD4HbcTPq9VZ2VCTEkiGo7mT0Ign/view?usp=drive_link) > Abstractizarea digitală, circuite combinaționale și secvențiale
+05.11.2024 și 12.11.2024 [Curs 4 și Curs 5](./Cursuri/Curs%200x03.pdf) > Abstractizarea digitală, circuite combinaționale și secvențiale
 
-12.11.2024 [Seminar 4]() >
+19.11.2024 [Seminar - pentru cursurile 4 și 5](./Seminare/Seminarul%20III/Seminar%200x02.pdf) > Logică și circuite combinaționale, secvențiale și mașini cu stări > [Rezolvări seminar](./Seminare/Seminarul%20III/Rezolvări.pdf)
 
-19.11.2024 [Curs 5]() >
+26.11.2024 [Curs 6](./Cursuri/Curs%200x05.pdf) > Înmulțirea / Împărțirea numerelor întregi, reprezentare în virgulă mobilă
 
-26.11.2024 [Seminar 5]() > Floating point
+03.12.2024 [Seminar pentru cursul 6](./Seminare/Seminarul%20IV/Seminar%200x03.pdf) > Floating point
+
+10.12.2024 [Curs 7](./Cursuri/Curs%200x06.pdf) > Arhitectura calculatoarelor moderne
+
+10.12.2024 [Curs 8](./Cursuri/Curs%200x08.pdf) > Pipelining, branch prediction, out of order execution
+
+17.12.2024 [Seminar pentru cursurile 7 și 8](./Seminare/Seminarul%20V/Seminar%200x04.pdf) > Cod Assembly x86, seturi de instrucțiuni
+
+07.01.2025 [Curs 9](./Cursuri/Curs%200x09.pdf) > Sisteme multi-core, ierarhia memoriei
+
+14.01.2025 [Curs 10](./Cursuri/Curs%200x0A.pdf) > Performanța sistemelor de calcul
 
 
 * ### Laboratoare
@@ -53,11 +63,11 @@ NE - Notă extra (Proiecte în grup discutate la curs)
 
 17.10.2024 [Laborator 3](../Arhitectura%20Sistemelor%20de%20Calcul/Laboratoare/Laboratorul%20II%20-%20V/) > Regiștrii arhitecturii x86. Tipuri de date și structuri de bază. Exemplu de program în x86 (Cap 3.1 -> 3.3)
 
-[**Teste de laborator cu materia parcursă până în laboratorul 3**](./Laboratoare/Teste%20de%20laborator/Test%20Laborator%202.md)
+[**Teste de laborator din materia parcursă până în laboratorul 3**](./Laboratoare/Teste%20de%20laborator/Test%20Laborator%202.md)
 
 24.10.2024 [Laborator 4](../Arhitectura%20Sistemelor%20de%20Calcul/Laboratoare/Laboratorul%20II%20-%20V/) > Programe în ASM si Debug. Hello, world! în Assembly. Operații aritmetice si logice. Salturi condiționate si necondiționate (Cap 3.4 -> 3.7)
 
-[**Teste de laborator cu materia parcursă până în laboratorul 4*](./Laboratoare/Teste%20de%20laborator/Test%20Laborator%203.md)
+[**Teste de laborator cu materia parcursă până în laboratorul 4**](./Laboratoare/Teste%20de%20laborator/Test%20Laborator%203.md)
 
 31.10.2024 [Laborator 5](../Arhitectura%20Sistemelor%20de%20Calcul/Laboratoare/Laboratorul%20II%20-%20V/) > Tablouri unidimensionale. Inline Assembly (Cap 3.8)
 
@@ -85,4 +95,7 @@ NE - Notă extra (Proiecte în grup discutate la curs)
 
 14.01.2025 [Laborator 14]() > **COLOCVIU / TEST DE LABORATOR (Nota >= 5)**
 
-### **4 credite | Curs <5> | Laborator <14/14> | Seminar <4>**
+**17.01.2025 | PREZENTAREA PROIECTELOR > [Personal]()**
+
+
+### **4 credite | Curs + Seminar <14/14> | Laborator <14/14>**
