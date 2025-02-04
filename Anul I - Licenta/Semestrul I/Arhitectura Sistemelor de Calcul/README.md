@@ -50,7 +50,7 @@ NE - Notă extra (Proiecte în grup discutate la curs)
 
 17.12.2024 [Seminar pentru cursurile 7 și 8](./Seminare/Seminarul%20V/Seminar%200x04.pdf) > Cod Assembly x86, seturi de instrucțiuni
 
-07.01.2025 [Curs 9](./Cursuri/Curs%200x09.pdf) > Sisteme multi-core, ierarhia memoriei
+07.01.2025 [Curs 9](./Cursuri/Curs%200x09.pdf) > Sisteme multi-core, ierarhia memoriei (Doar ierarhia memoriei pentru examen)
 
 14.01.2025 [Curs 10](./Cursuri/Curs%200x0A.pdf) > Performanța sistemelor de calcul
 
