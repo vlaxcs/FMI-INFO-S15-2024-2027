@@ -54,6 +54,10 @@ NE - Notă extra (Proiecte în grup discutate la curs)
 
 14.01.2025 [Curs 10](./Cursuri/Curs%200x0A.pdf) > Performanța sistemelor de calcul
 
+* ### Examinare
+
+**[Modele de examen rezolvate](./Examen/)**
+
 
 * ### Laboratoare
 
