@@ -49,13 +49,13 @@ Accesați pagina folosind Chrome sau Chromium, și folosiți funcția de tipări
 
 02.10.2024 [Curs 1](https://cs.unibuc.ro/~cechirita/tw/c1) > Introducere în Web > [PDF Slides](./Cursuri/Cursul%2001%20-%20Introducere%20in%20Web.pdf)
 
-09.10.2024 [Curs 2](https://cs.unibuc.ro/~cechirita/tw/c2) > HTML > [PDF Slides](./Cursuri/Cursul%2001%20-%20Introducere%20in%20Web.pdf)
+09.10.2024 [Curs 2](https://cs.unibuc.ro/~cechirita/tw/c2) > HTML > [PDF Slides](./Cursuri/Cursul%2002%20-%20HTML.pdf)
 
-16.10.2024 [Curs 3](https://cs.unibuc.ro/~cechirita/tw/c3) > CSS #1 > [PDF Slides](./Cursuri/Cursul%2003%20-%20CSS%20#1.pdf)
+16.10.2024 [Curs 3](https://cs.unibuc.ro/~cechirita/tw/c3) > CSS #1 > [PDF Slides](./Cursuri/Cursul%2003%20-%20CSS%201.pdf)
 
-23.10.2024 [Curs 4](https://cs.unibuc.ro/~cechirita/tw/c4) > CSS #2 > [PDF Slides](./Cursuri/Cursul%2004%20-%20CSS%20#2.pdf)
+23.10.2024 [Curs 4](https://cs.unibuc.ro/~cechirita/tw/c4) > CSS #2 > [PDF Slides](./Cursuri/Cursul%2004%20-%20CSS%202.pdf)
 
-30.10.2024 [Curs 5](https://cs.unibuc.ro/~cechirita/tw/c5) > CSS #3 > [PDF Slides](./Cursuri/Cursul%2005%20-%20CSS%20#3.pdf)
+30.10.2024 [Curs 5](https://cs.unibuc.ro/~cechirita/tw/c5) > CSS #3 > [PDF Slides](./Cursuri/Cursul%2005%20-%20CSS%203.pdf)
 
 06.11.2024 [Curs 6](https://cs.unibuc.ro/~cechirita/tw/c6) > JavaScript > [PDF Slides](./Cursuri/Cursul%2006%20-%20JavaScript.pdf)
 
