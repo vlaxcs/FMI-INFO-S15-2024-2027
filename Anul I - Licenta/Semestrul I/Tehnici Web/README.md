@@ -25,38 +25,53 @@ NL = Nota la laborator: NLAB1 + NLAB2 >= 20 (50%)
 
 * ### Cursuri
 
-Accesarea cursurilor se face prin adăugarea /cnumar pentru fiecare curs. De exemplu, pentru cursul 1, vom adăuga /c1 (asta doar dacă sunt publice).
+- Accesarea cursurilor se face prin adăugarea /cnumar pentru fiecare curs. De exemplu, pentru cursul 1, vom adăuga /c1 (asta doar dacă sunt publice).
 
 ```
 https://cs.unibuc.ro/~cechirita/tw/c<numar>
 ex: https://cs.unibuc.ro/~cechirita/tw/c1 > pentru cursul 1
 ```
 
-02.10.2024 [Curs 1](https://cs.unibuc.ro/~cechirita/tw/c1) > Introducere în Web > [PDF Slides](https://drive.google.com/file/d/1ooWkv4XuoNf_k5Nu9wePhAa1NCARkIda/view)
+- Cum obținem slide-urile PDF?
 
-09.10.2024 [Curs 2](https://cs.unibuc.ro/~cechirita/tw/c2) > HTML > [PDF Slides]()
+```
+Pentru a exporta slide-urile ca fișiere .pdf, adăugați "?print-pdf" la adresa cursului pe care doriți să îl salvați (ex: https://cs.unibuc.ro/~cechirita/tw/c1/?print-pdf). 
 
-16.10.2024 [Curs 3](https://cs.unibuc.ro/~cechirita/tw/c3) > CSS #1 > [PDF Slides]()
+Accesați pagina folosind Chrome sau Chromium, și folosiți funcția de tipărire a browserului (Ctrl+P) pentru a salva în fișier, astfel:
+- alegeți ca destinație "Save as PDF"
+- selectați Pages: All
+- selectați Layout: Landscape
+- alegeți Pages per sheet: 1
+- setați Margins: None
+- activați opțiunea Background graphics
+```
 
-23.10.2024 [Curs 4](https://cs.unibuc.ro/~cechirita/tw/c4) > CSS #2 > [PDF Slides]()
 
-30.10.2024 [Curs 5](https://cs.unibuc.ro/~cechirita/tw/c5) > CSS #3 > [PDF Slides]()
+02.10.2024 [Curs 1](https://cs.unibuc.ro/~cechirita/tw/c1) > Introducere în Web > [PDF Slides](./Cursuri/Cursul%2001%20-%20Introducere%20in%20Web.pdf)
 
-06.11.2024 [Curs 6](https://cs.unibuc.ro/~cechirita/tw/c6) > JavaScript > [PDF Slides]()
+09.10.2024 [Curs 2](https://cs.unibuc.ro/~cechirita/tw/c2) > HTML > [PDF Slides](./Cursuri/Cursul%2001%20-%20Introducere%20in%20Web.pdf)
 
-13.11.2024 [Curs 7]() >
+16.10.2024 [Curs 3](https://cs.unibuc.ro/~cechirita/tw/c3) > CSS #1 > [PDF Slides](./Cursuri/Cursul%2003%20-%20CSS%20#1.pdf)
 
-20.11.2024 [Curs 8]() >
+23.10.2024 [Curs 4](https://cs.unibuc.ro/~cechirita/tw/c4) > CSS #2 > [PDF Slides](./Cursuri/Cursul%2004%20-%20CSS%20#2.pdf)
 
-27.11.2024 [Curs 9]() >
+30.10.2024 [Curs 5](https://cs.unibuc.ro/~cechirita/tw/c5) > CSS #3 > [PDF Slides](./Cursuri/Cursul%2005%20-%20CSS%20#3.pdf)
 
-04.12.2024 [Curs 10]() >
+06.11.2024 [Curs 6](https://cs.unibuc.ro/~cechirita/tw/c6) > JavaScript > [PDF Slides](./Cursuri/Cursul%2006%20-%20JavaScript.pdf)
 
-11.12.2024 [Curs 11]() >
+13.11.2024 [Curs 7](https://cs.unibuc.ro/~cechirita/tw/c7) > DOM > [PDF Slides](./Cursuri/Cursul%2007%20-%20DOM.pdf)
 
-18.12.2024 [Curs 12]() >
+20.11.2024 [Curs 8](https://cs.unibuc.ro/~cechirita/tw/c8) > Evenimente > [PDF Slides](./Cursuri/Cursul%2008%20-%20Evenimente.pdf)
 
-25.12.2024 [Curs 13]() >
+27.11.2024 [Curs 9](https://cs.unibuc.ro/~cechirita/tw/c9) > Formulare > [PDF Slides](./Cursuri/Cursul%2009%20-%20Formulare.pdf)
+
+04.12.2024 [Curs 10](https://cs.unibuc.ro/~cechirita/tw/c10) > AJAX > [PDF Slides](./Cursuri/Cursul%2010%20-%20AJAX.pdf)
+
+11.12.2024 [Curs 11](https://cs.unibuc.ro/~cechirita/tw/c11) > Canvas & SVG > [PDF Slides](./Cursuri/Cursul%2011%20-%20Canvas.%20SVG.pdf)
+
+18.12.2024 [Curs 12](https://cs.unibuc.ro/~cechirita/tw/c12) > Web for all > [PDF Slides](./Cursuri/Cursul%2012%20-%20Web%204%20All.pdf)
+
+25.12.2024 [Curs 13](https://cs.unibuc.ro/~cechirita/tw/c13) > Extras > [PDF Slides](./Cursuri/Cursul%2013%20-%20Extras.pdf)
 
 * ### Laboratoare
 
