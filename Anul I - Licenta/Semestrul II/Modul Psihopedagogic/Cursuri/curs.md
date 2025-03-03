@@ -1,0 +1,80 @@
+# Structura de Funcționare a Educației
+
+## Educatorul - Individul și colectiv
+1. FCE (??)
+    - Formare și dezvoltare permanentă -> integrarea în societate
+2. FiME (??)
+    - Idealul educației
+        - Idealul personalității autonome și ??
+    - SCG (Scopruile generale)
+        - Direcții majore de dezvoltare a educației (ex: informatizare)
+3. FME (Finalitățile mici ale educației)
+    - Obiective
+        - Generale
+        - ??
+        - Complete (Operaționale)
+4. Conținuturile educației
+    - Morale
+    - Științifice
+    - Tehnologice
+    - Estetice
+    - Fizice
+5. Mesajele pedagogic
+    - Se bazează pe informație
+    - Includ:
+        - Informarea -> Formarea + Dezvoltarea (+)
+            - Bazată pe selectarea informațiilor pe baza programei școlare
+6. Normativitate
+    - Principii
+        - Principiul transformării informației de specialitate în informație pedagogică
+        - Comunicare pedagogică (în raport de clasă)
+7. Strategiile de educație
+    - Comunicarea mesajului pedagogic
+8. Strategiile de evaluare
+    - Inițială
+    - Continuă
+    - Finală
+
+-> În corelație cu [educatul](#educatul)
+## [Eduatul](#educatul)
+
+- Potret al elevului, al <i>educatului</i> în raport cu vârsta <b>școlară, psihologică, socială</b>
+- Cunoașterea resurselor
+    - Didactice / Școlare
+    - Psihologice
+    - Sociale (prin raportare la mediul social)
+
+- Acțiunea elevului
+    - Învățare (în raport cu mesajul pedagogic)
+        - Receptarea mesajului pedagogic (începutul învățării)
+        - Comunicarea mesajului pedagogic (predarea)
+        - Asimilarea mesajului pedagogic
+            - Parțială
+            - Intermediară
+            - Finală - dovada interiorizării unor cunoștințe (prezentarea cunoștințelor) <-> Înțelegere <-> Legătura cu alte cunoștințe
+            - Valorificarea mesajului pedagogic (în orice context)
+
+-> Educatul devine autoeducat [E -> AED]
+
+# Structura de Funcționare a Educației în Sistemul de Învățământ
+
+## Model ideal
+
+O construcție aboslut necesară (mai ales în științele socio-umane).
+
+1. Educator (profesor)
+    - <-> FGE (??)
+    - <-> Finalitățile mari ale educației (Legea Învățământului)
+
+2. (din 1) PPC (Proiect pedagogic curricular)
+    - (Finalități) > Programa școlară
+        - Conținuturi
+        - Metode
+        - Evaluare
+
+3. (din 1, 2 prin normativitate). Educatul
+    - Educare / Dezvoltare (+)
+    - Construit prin repertoriu comun (canal de comunicație) 
+        - solicită empatie (nu blocaj pedagogic)
+
+4. (din 2 în 3) Strategii de educație

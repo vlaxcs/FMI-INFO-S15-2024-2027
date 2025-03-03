@@ -42,15 +42,17 @@ NE - Notă extra (Proiecte în grup discutate la curs)
 
 26.11.2024 [Curs 6](./Cursuri/Curs%200x05.pdf) > Înmulțirea / Împărțirea numerelor întregi, reprezentare în virgulă mobilă
 
-03.12.2024 [Seminar pentru cursul 6](./Seminare/Seminarul%20IV/Seminar%200x03.pdf) > Floating point
+03.12.2024 [Seminar - pentru cursul 6](./Seminare/Seminarul%20IV/Seminar%200x03.pdf) > Floating point > [Rezolvări seminar](./Seminare/Seminarul%20IV/Rezolvări.pdf)
 
 10.12.2024 [Curs 7](./Cursuri/Curs%200x06.pdf) > Arhitectura calculatoarelor moderne
 
 10.12.2024 [Curs 8](./Cursuri/Curs%200x08.pdf) > Pipelining, branch prediction, out of order execution
 
-17.12.2024 [Seminar pentru cursurile 7 și 8](./Seminare/Seminarul%20V/Seminar%200x04.pdf) > Cod Assembly x86, seturi de instrucțiuni
+17.12.2024 [Seminar - pentru cursurile 7 și 8](./Seminare/Seminarul%20V/Seminar%200x04.pdf) > Cod Assembly x86, seturi de instrucțiuni > [Rezolvări seminar](./Seminare/Seminarul%20V/Rezolvări.pdf)
 
 07.01.2025 [Curs 9](./Cursuri/Curs%200x09.pdf) > Sisteme multi-core, ierarhia memoriei **(Doar ierarhia memoriei pentru examen > 2024-2025)**
+
+07.01.2025 [Seminar - pentru cursul 9](./Seminare/Seminarul%20VI/Seminarul%200x05.pdf) > Ierarhizarea memoriei > [Rezolvări seminar](./Seminare/Seminarul%20VI/Rezolvări.pdf)
 
 14.01.2025 [Curs 10](./Cursuri/Curs%200x0A.pdf) > Performanța sistemelor de calcul
 
