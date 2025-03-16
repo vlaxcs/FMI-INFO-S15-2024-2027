@@ -1,5 +1,3 @@
-Sure! Here's a version of your tables with borders added for a more structured look:
-
 ### Semestrul I
 
 | **Denumirea cursului** | **Cursuri** | **Laboratoare** | **Seminare** | **Puncte credit** | **Dată examen** |
