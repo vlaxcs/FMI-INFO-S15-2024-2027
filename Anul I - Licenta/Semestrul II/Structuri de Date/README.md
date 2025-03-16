@@ -4,7 +4,7 @@
 
 Curs / Seminar: [MARIUS DUMITRAN](mailto:marius.dumitran@unibuc.ro)
 
-Laborator: [MICLAUS ADRIAN](mailto:)
+Laborator: [MICLĂUȘ ADRIAN](mailto:adrian.miclaus@fmi.unibuc.ro)
 
 [Fișa cursului](https://cursuri.fmi.unibuc.ro/api/uploads/bdd17f7b-6b9e-461e-b054-b154508e0549.pdf)
 
@@ -43,8 +43,10 @@ EXC = Excepții
 
 * ### Laboratoare
 
+26.02.2025 & 12.03.2025 [Laborator 1 & Laborator 2](./Laboratoare/Laboratorul%20I/) - Algoritmi de sortare
+
 * ### Seminare
 
 05.03.2025 [Seminar 1 - TBA]() > Probleme Ad-Hoc optimizate
 
-### **5 credite | Curs <2/14> | Laborator <2/14> | Seminar <1/7> | **
+### **5 credite | Curs <2/14> | Laborator <2/7> | Seminar <1/7> | **

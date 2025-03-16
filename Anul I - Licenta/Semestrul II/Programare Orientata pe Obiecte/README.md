@@ -44,7 +44,11 @@ AB = Alte bonusuri (max 0.5p - activitate seminar + max 0.5p - activitate curs)
 
 Proiectul se desfășoară în 3 etape. Poate fi realizat un proiect de ansamblu, care să includă toate punctele din cele 3 etape.
 
-_Vor apărea detalii_
+**[Detalii generale](https://github.com/oepeling/poo)**
+- **[Configurarea mediului de lucru](https://github.com/Oepeling/poo/tree/master/env)**
+- **[Tema 1](https://github.com/Oepeling/poo/tree/master/tema-1)**
+- **[Tema 2](https://github.com/Oepeling/poo/tree/master/tema-2)**
+- **[Tema 3](https://github.com/Oepeling/poo/tree/master/tema-3)**
 
 * ### Cursuri
 
@@ -54,12 +58,10 @@ _Vor apărea detalii_
 
 * ### Laboratoare
 
-26.02.2025 [Laborator 1](./Laboratoare/Laborator%2001/) > Introducere în POO
-
-05.03.2025 [Laborator 2]() > ?
+26.02.2025 & 05.03.2025 [Laborator 1 & 2](./Laboratoare/Laborator%2002/) > Completări în <vector.h>
 
 * ### Seminare
 
-25.02.2025 [Seminar 1]() > ?
+25.02.2025 [Seminar 1](./Laboratoare/Laborator%2001%20&%2002/) > Completări în <vector.h>
 
-### **6 credite | Curs <2/14> | Laborator <2/14> | Seminar <2/14> | Proiect <0/3>**
+### **6 credite | Curs <3/14> | Laborator <3/14> | Seminar <2/7> | Proiect <0/3>**
