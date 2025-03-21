@@ -15,14 +15,14 @@ Seminar: [MARIA NEGRU](mailto:maria.negru@unibuc.ro)
 * ### Calculul notei
 
 ```     
-NF = min(10, NEL + NES + NS)
+NF = min(10, 15% NL + 85% NES + NS)
 
 NES = Notă examen scris >= 5 (max. 10)
 
 NL = Notă laborator >= 3 (max. 10)
-   = (NT1 + NT2 + NT3) / 3, unde NTi <= 5
+   = (NT1 + NT2 + NT3) / 3, unde NTi <= 10
 
-NS = Notă seminar (max. 5p)
+NS = Notă seminar (max. 0.5p)
 ```
 
 * ### Workspace
