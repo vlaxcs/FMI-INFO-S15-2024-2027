@@ -266,10 +266,14 @@ Având un vector care conține doar valorile 0 și 1, găsește lungimea celui m
 
 ### Soluție
 
-```
 Putem folosi o implementare sliding windows cu <code>deque</code>, dacă ar fi vorba despre secvențe alternante de 0 și 1. Dar problema se referă la orice structurare a unui subarray contiguu cu valori de 0 și 1 frecvente de un număr egal de ori.
 
 Pentru a face problema mai ușor de înțeles, am ales să îl tratez pe 0 ca -1. Astfel, problema presupune _găsirea celei mai lungi subsecvențe cu suma 0_.
+
+În map-ul <code>sum</code> regăsim perechi \<suma , i>, unde <code>i = primul index de unde s-a format respectiva sumă</code>.
+
+Dacă, pe parcurs, aceeași sumă se poate forma pe un index <code>j</code> ulterior, lungimea unei secvențe care respectă cerința este diferența <code>j - i</code>.
+```
 #include <iostream>
 #include <vector>
 #include <random>
@@ -315,3 +319,4 @@ int main() {
 }
 ```
 
+Soluția prezentată are complexitate O(n), deoarece sum.find() aplicat pe unordered_map se realizează în O(1).
