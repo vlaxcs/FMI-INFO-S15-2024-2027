@@ -20,7 +20,7 @@
 | [Programare Orientată pe Obiecte](./Semestrul%20II/Programare%20Orientata%20pe%20Obiecte/) | 14 | 14 | 7 | 6 | 12 Iunie 2025 |
 | [Logică Matematică și Computațională](./Semestrul%20II/Logică%20Matematică%20și%20Computațională/) | 14 | 14 | - | 5 | - |
 | [Structuri de Date](./Semestrul%20II/Structuri%20de%20Date/)| 14 | 7 | 7 | 5 | - |
-| *[Baze de Date - TBA](./Semestrul%20II/Geometrie%20și%20Algebră%20Liniară)* | - | - | - | - | - |
+| *[Baze de Date - TBA](./Semestrul%20II/Geometrie%20%C8%99i%20Algebr%C4%83%20Liniar%C4%83)* | - | - | - | - | - |
 | *[Geometrie și Algebră Liniară - TBA]()* | - | - | - | - | - |
 | *[Modulul Psihopedagogic - TBA]()* | - | - | - | - | - |
 | *[Limba Franceză - TBA]()* | - | - | - | - | - |
