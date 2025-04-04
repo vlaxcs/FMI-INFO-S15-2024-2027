@@ -45,8 +45,8 @@ NS = Notă seminar (max. 0.5p)
 
 11.03.2025 [Laborator 2](./Laboratoare/Laboratorul%2002/) > Conversia unui NFA la DFA
 
-**DEADLINE TEMA 1: 23.03.2025** | Prezentare la laborator: **25.03.2025** | [Personal - TBA]()
+**DEADLINE [TEMA 1](./Laboratoare/Teme/01.%20DFA%20si%20NFA.pdf): 23.03.2025** | Prezentare la laborator: **25.03.2025** | [Personal - TBA](https://github.com/vlaxcs/DFA-NFA)
 
-25.03.2025 [Laborator 3 - TBA]()
+25.03.2025 [Laborator 3 - TBA]() - Minimizarea unui DFA
 
 ### **5 credite | Curs <3/14> | Laborator <2/7> | Seminar <1/7>**
