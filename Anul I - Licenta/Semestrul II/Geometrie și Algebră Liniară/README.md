@@ -1,4 +1,4 @@
-# [E] Limbaje Formale și Automate (Informatică)
+# [E] Geometrie și Algebră Liniară (Matematică)
 
 ~ *LFA*
 
