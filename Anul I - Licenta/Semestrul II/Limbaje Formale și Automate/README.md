@@ -49,4 +49,4 @@ NS = Notă seminar (max. 0.5p)
 
 25.03.2025 [Laborator 3 - TBA]() - Minimizarea unui DFA
 
-### **5 credite | Curs <3/14> | Laborator <2/7> | Seminar <1/7>**
+### **5 credite | Curs <6/14> | Laborator <3/7> | Seminar <3/7>**

@@ -21,7 +21,7 @@
 | [Logică Matematică și Computațională](./Semestrul%20II/Logică%20Matematică%20și%20Computațională/) | 14 | 14 | - | 5 | - |
 | [Structuri de Date](./Semestrul%20II/Structuri%20de%20Date/)| 14 | 7 | 7 | 5 | - |
 | *[Baze de Date - TBA]()* | - | - | - | - | - |
-| *[Geometrie și Algebră Liniară - TBA]()* | - | - | - | - | - |
+| *[Geometrie și Algebră Liniară - TBA](./Semestrul%20II/Geometrie%20și%20Algebră%20Liniară/)* | - | - | - | - | - |
 | *[Modulul Psihopedagogic - TBA]()* | - | - | - | - | - |
 | *[Limba Franceză - TBA]()* | - | - | - | - | - |
 | *[Educație Fizică - TBA]()* | - | - | - | - | - |
