@@ -16,12 +16,12 @@
 
 | **Denumirea cursului** | **Cursuri** | **Laboratoare** | **Seminare** | **Puncte credit** | **Dată examen** |
 |-------------------------|-------------|------------------|--------------|-------------------|-----------------|
+| [Geometrie și Algebră Liniară](./Semestrul%20II/Geometrie%20și%20Algebră%20Liniară/) | 14 | - | 14 | 4 | 10 Iunie 2025 |
+| [Logică Matematică și Computațională](./Semestrul%20II/Logică%20Matematică%20și%20Computațională/) | 14 | 7 | 7 | 5 | 14 Iunie 2025 |
+| *[Baze de Date - TBA]()* | 14 | 14 | - | 5 | 16 Iunie 2025 |
 | [Limbaje Formale și Automate](./Semestrul%20II/Limbaje%20Formale%20și%20Automate/) | 14 | 7 | 7 | 5 | 19 Iunie 2025 |
-| [Programare Orientată pe Obiecte](./Semestrul%20II/Programare%20Orientata%20pe%20Obiecte/) | 14 | 14 | 7 | 6 | 12 Iunie 2025 |
-| [Logică Matematică și Computațională](./Semestrul%20II/Logică%20Matematică%20și%20Computațională/) | 14 | 14 | - | 5 | - |
-| [Structuri de Date](./Semestrul%20II/Structuri%20de%20Date/)| 14 | 7 | 7 | 5 | - |
-| *[Baze de Date - TBA]()* | - | - | - | - | - |
-| *[Geometrie și Algebră Liniară - TBA](./Semestrul%20II/Geometrie%20și%20Algebră%20Liniară/)* | - | - | - | - | - |
+| [Structuri de Date](./Semestrul%20II/Structuri%20de%20Date/)| 14 | 7 | 7 | 5 | 27 Iunie 2025 |
+| [Programare Orientată pe Obiecte](./Semestrul%20II/Programare%20Orientata%20pe%20Obiecte/) | 14 | 14 | 7 | 6 | 23 Iunie 2025 |
 | *[Modulul Psihopedagogic - TBA]()* | - | - | - | - | - |
 | *[Limba Franceză - TBA]()* | - | - | - | - | - |
-| *[Educație Fizică - TBA]()* | - | - | - | - | - |
+| *[Educație Fizică]()* | - | - | - | 2 | - |
