@@ -50,7 +50,7 @@ NC = 80% NE + 20% NS
 
 20.03.2025 [Seminar 4](./Seminare/04.%20Spatii%20vectoriale.%20Repere.%20Coordonate.%20Operatii%20cu%20subspatii%20-%2020.03.2025.pdf) > Spații vectoriale. Repere. Coordonate. Operații cu subspații > [Listă](./Seminare/L.%20Seminarul%204.pdf)
 
-27.03.2025 [Seminar 5](./Seminare/05.%20Operatii%20cu%20subspatii%20vectoriale.%20Aplicatii%20liniare%20-%2027.03.2025.pdf) - Operații cu spații vectoriale. Aplicații liniare > [Listă](./Seminare/L.%20Seminarul%205.pdf) > [Listă](./Seminare/L.%20Seminarul%205.pdf)
+27.03.2025 [Seminar 5](./Seminare/05.%20Operatii%20cu%20subspatii%20vectoriale.%20Aplicatii%20liniare%20-%2027.03.2025.pdf) - Operații cu spații vectoriale. Aplicații liniare > [Listă](./Seminare/L.%20Seminarul%205.pdf)
 
 03.04.2025 [Seminar 6](./Seminare/06.%20Aplicatii%20liniare%20-%2003.04.2025.pdf) - Aplicații liniare > [Listă](./Seminare/L.%20Seminarul%206.pdf)
 
