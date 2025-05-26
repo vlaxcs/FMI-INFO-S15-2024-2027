@@ -11,11 +11,11 @@ int main()
     for (int i = 0; i < n; i++)
     {
         f >> pos;
-        v.insert(v.begin() + pos - 1, i);
+        v.insert(v.begin() + pos - 1, i + 1);
     }
-    
+
     for (int i = 0; i < v.size(); ++i) {
-        g << v[i] + 1 << endl;
+        g << v[i] << endl;
     }
 
     f.close();
