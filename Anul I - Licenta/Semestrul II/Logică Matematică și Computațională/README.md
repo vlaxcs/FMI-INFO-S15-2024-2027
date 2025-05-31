@@ -29,6 +29,7 @@ NES = Notă examen scris
     _Rulați fișierele cu extensia <i>.pl</i> din terminal, folosind <code>swipl nume-fisier</code>._ Asigurați-vă că în terminal sunteți în directorul în care aveți fișierul.
 
     <sub>Ex: Eu execut un fișier .pl corespunzător laboratorului 3 din path-ul <code>D:\FMI\FMI-INFO-S15-2024-2027\Anul I - Licenta\Semestrul II\Logică Matematică și Computațională\Laboratoare\Laboratorul 03</code></sub>
+    - [Slide-uri Prolog ~ Resursă externă](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=teaching)
 
 * ### Cursuri
 
