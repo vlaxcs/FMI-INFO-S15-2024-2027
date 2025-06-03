@@ -187,25 +187,30 @@ HAVING COUNT(project_id) = (
 1. Să se listeze informații despre angajații care au lucrat în toate proiectele 
 demarate în primele 6 luni ale anului 2006.
 
--- Aflăm care sunt proiectele demarate în primele 6 luni ale anului 2006
-WITH PROJECTS_2006_H1 AS (
-    SELECT PROJECT_ID
-    FROM PROJECT
-    WHERE EXTRACT(YEAR FROM START_DATE) = 2006 
-    AND EXTRACT(MONTH FROM START_DATE) <= 6
-),
-
-EMPLOYEE_PROJECTS AS (
-    SELECT w.employee_id, w.project_id
-    FROM WORKS_ON w JOIN PROJECTS_2006_H1 p ON (w.project_id = p.project_id)
-),
-
-PROJECT_COUNT AS (
-    SELECT COUNT(*) as "Total"
-    FROM PROJECTS_2006_H1
+-- Selectăm angajații care au lucrat în măcar un proiect din subselecție
+WITH ANGAJATI_ACTIVI AS (
+    SELECT employee_id
+    FROM works_on
+    WHERE project_id IN (
+        -- Selectăm proiectele demarate în primele 6 luni ale anului
+        SELECT project_id
+        FROM project
+        WHERE EXTRACT(year FROM start_date) = 2006 AND EXTRACT(month FROM start_date) <= 6
+        )
+    GROUP BY(employee_id)
+    HAVING COUNT(project_id) = ( -- Același angajat trebuie să fi lucrat la toate proiectele
+            -- Numărăm proiectele demarate în primele 6 luni ale anului
+            SELECT COUNT(project_id)
+            FROM project
+            WHERE EXTRACT(year FROM start_date) = 2006 AND EXTRACT(month FROM start_date) <= 6
+        )
 )
-
-SELECT * FROM EMPLOYEE_PROJECTS;
+    SELECT *
+    FROM employees
+    WHERE employee_id IN ( 
+        SELECT employee_id 
+        FROM ANGAJATI_ACTIVI
+    );
 _____ 
 
 
