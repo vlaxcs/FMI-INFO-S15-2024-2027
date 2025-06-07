@@ -28,7 +28,7 @@ NC = 80% NE + 20% NS
 
 03.04.2025 [Curs 6](./Cursuri/06.%20Aplicații%20liniare%20-%2003.04.2025.pdf) > Aplicații liniare
 
-**TEST INTERMEDIAR: 10.04.2025** - Algebră Liniară
+**TEST INTERMEDIAR: 10.04.2025** - Algebră Liniară - **[Subiecte](./Examen/Test%20parțial%20-%20S7.pdf)**
 
 10.04.2025 [Curs 7](./Cursuri/07.%20Proiecții%20și%20simetrii%20-%2010.04.2025.pdf) > Proiecții și simetrii
 
@@ -36,9 +36,15 @@ NC = 80% NE + 20% NS
 
 08.05.2025 [Curs 9](./Cursuri/09.%20Spații%20vectoriale%20euclidiene%20-%2008.05.2025.pdf) > Spații vectoriale euclidiene
 
-15.05.2025 [Curs 10](./Cursuri/10.%20Transformări%20ortogonale.%20Endomorfisme%20simetrice%20-%2015.05.2025.pdf) > Transformări ortogonale. Endomorfisme simetrice
+15.05.2025 [Curs 10](./Cursuri/10.%20Transformări%20ortogonale.%20Endomorfisme%20simetrice%20-%2015.05.2025.pdf) > Transformări ortogonale. Endomorfisme simetrice + [continuare](./Cursuri/10.%20Endomorfisme%20simetrice%20-%20Continuare%20-%2015.05.2025.pdf)
 
-**TEST INTERMEDIAR: 29.05.2025** - Geometrie
+22.05.2025 [Curs 11](./Cursuri/10.%20Transformări%20ortogonale.%20Endomorfisme%20simetrice%20-%2015.05.2025.pdf) > Endomorfisme simetrice. Spații afine euclidiene. Geometrie analitică euclidiană
+
+29.05.2025 [Curs 12](./Cursuri/12.%20Geometrie%20analitică%20euclidiană%20-%2029.05.2025.pdf) > Geometrie analitică euclidiană
+
+**TEST INTERMEDIAR: 29.05.2025** - Geometrie - **[Subiecte](./Examen/Test%20parțial%20-%20S13.pdf)**
+
+**[RECAPITULARE EXAMEN](./Examen/Recapitulare%20Examen.pdf)**
 
 * ### Seminare
 
@@ -62,4 +68,8 @@ NC = 80% NE + 20% NS
 
 15.05.2025 [Seminar 10](./Seminare/10.%20Transformări%20ortogonale.%20Endomorfisme%20simetrice%20-%2015.05.2025.pdf) > Transformări ortogonale. Endomorfisme simetrice > [Listă](./Seminare/L.%20Seminarul%2010.pdf)
 
-### **4 credite | Curs <11/14> | Seminar <11/14>**
+22.05.2025 [Seminar 11](./Seminare/11.%20Geometrie%20analitică%20euclidiană%20-%2022.05.2025.pdf) > Geometrie analitică euclidiană > [Listă](./Seminare/L.%20Seminarul%2011.pdf)
+
+29.05.2025 [Seminar 12](./Seminare/12.%20Geometrie%20analitică%20euclidiană%20-%2029.05.2025.pdf) > Geometrie analitică euclidiană > [Listă](./Seminare/L.%20Seminarul%2012.pdf)
+
+### **4 credite | Curs <14/14> | Seminar <14/14>**
