@@ -46,6 +46,8 @@ NC = 80% NE + 20% NS
 
 **[RECAPITULARE EXAMEN](./Examen/Recapitulare%20Examen.pdf)**
 
+**[CHEATSHEET](./Examen/Cheatsheet.pdf)**
+
 * ### Seminare
 
 27.02.2025 [Seminar 1](./Seminare/01.%20Determinanti.%20Rang%20-%2027.02.2025.pdf) > Determinanți. Rang > [Listă](./Seminare/L.%20Seminarul%201.pdf)
@@ -58,7 +60,7 @@ NC = 80% NE + 20% NS
 
 27.03.2025 [Seminar 5](./Seminare/05.%20Operatii%20cu%20subspatii%20vectoriale.%20Aplicatii%20liniare%20-%2027.03.2025.pdf) > Operații cu spații vectoriale. Aplicații liniare > [Listă](./Seminare/L.%20Seminarul%205.pdf)
 
-03.04.2025 [Seminar 6](./Seminare/06.%20Aplicatii%20liniare%20-%2003.04.2025.pdf) > Aplicații liniare > [Listă](./Seminare/L.%20Seminarul%206.pdf)
+03.04.2025 [Seminar 6](./Seminare/06.%20Aplicații%20liniare%20-%2003.04.2025.pdf) > Aplicații liniare > [Listă](./Seminare/L.%20Seminarul%206.pdf)
 
 10.04.2025 [Seminar 7](./Seminare/07.%20Vectori%20și%20valori%20proprii.%20Diagonalizare%20-%2010.04.2025.pdf) > Vectori și valori proprii. Diagonalizare > [Listă](./Seminare/L.%20Seminarul%207.pdf)
 
