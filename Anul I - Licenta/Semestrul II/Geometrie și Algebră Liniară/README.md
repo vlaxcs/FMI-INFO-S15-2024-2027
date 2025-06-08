@@ -32,13 +32,13 @@ NC = 80% NE + 20% NS
 
 10.04.2025 [Curs 7](./Cursuri/07.%20Proiecții%20și%20simetrii%20-%2010.04.2025.pdf) > Proiecții și simetrii
 
-17.04.2025 [Curs 8](./Cursuri/06.%20Forma%20Jordan%20-%2017.04.2025.pdf) > Forma Jordan (Completări)
+17.04.2025 [Curs 8](./Cursuri/08.%20Forma%20Jordan%20-%2017.04.2025.pdf) > Forma Jordan (Completări)
 
 08.05.2025 [Curs 9](./Cursuri/09.%20Spații%20vectoriale%20euclidiene%20-%2008.05.2025.pdf) > Spații vectoriale euclidiene
 
 15.05.2025 [Curs 10](./Cursuri/10.%20Transformări%20ortogonale.%20Endomorfisme%20simetrice%20-%2015.05.2025.pdf) > Transformări ortogonale. Endomorfisme simetrice + [continuare](./Cursuri/10.%20Endomorfisme%20simetrice%20-%20Continuare%20-%2015.05.2025.pdf)
 
-22.05.2025 [Curs 11](./Cursuri/10.%20Transformări%20ortogonale.%20Endomorfisme%20simetrice%20-%2015.05.2025.pdf) > Endomorfisme simetrice. Spații afine euclidiene. Geometrie analitică euclidiană
+22.05.2025 [Curs 11](./Cursuri/11.%20Endomorfisme%20simetrice.%20Spații%20afine%20euclidiene.%20Geometrie%20analitică%20euclidiană%20-%2022.05.2025.pdf) > Endomorfisme simetrice. Spații afine euclidiene. Geometrie analitică euclidiană
 
 29.05.2025 [Curs 12](./Cursuri/12.%20Geometrie%20analitică%20euclidiană%20-%2029.05.2025.pdf) > Geometrie analitică euclidiană
 
