@@ -66,6 +66,8 @@ NC = 80% NE + 20% NS
 
 17.04.2025 [Completare S7](./Seminare/08.%20Completare.pdf) > [Listă](./Seminare/L.%20Seminarul%208.pdf)
 
+17.04.2025 [Seminar 8](./Seminare%2F08.%20Forme%20patratice.%20Forma%20canonica.%20Metoda%20Gauss.%20Metoda%20Jacobi.pdf) > Forme pătratice. Forma canonică. Metoda Gauss. Metoda Jacobi
+
 08.05.2025 [Seminar 9](./Seminare/09.%20Spații%20vectoriale%20euclidiene%20-%2008.05.2025.pdf) > Spații vectoriale euclidiene > [Listă](./Seminare/L.%20Seminarul%209.pdf)
 
 15.05.2025 [Seminar 10](./Seminare/10.%20Transformări%20ortogonale.%20Endomorfisme%20simetrice%20-%2015.05.2025.pdf) > Transformări ortogonale. Endomorfisme simetrice > [Listă](./Seminare/L.%20Seminarul%2010.pdf)
