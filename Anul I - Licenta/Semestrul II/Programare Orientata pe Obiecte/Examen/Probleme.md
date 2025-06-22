@@ -378,6 +378,88 @@ int main()
 
 
 
+
+## Probleme tutoriat
+```
+#include<iostream>
+#include<vector>
+using namespace std;
+
+class Test{
+    int i;
+    public:
+    Test(int x = 0) : i(x) { 
+        cout << "C "; 
+    };
+    
+    Test(const Test& x) {
+        i=x.i;
+        cout<<"CC ";
+    }
+
+    ~Test(){
+        cout<<"D ";
+    }
+};
+
+int main() {
+    vector<Test> v;
+    v.push_back(1);
+    Test ob(3);
+    v.push_back(ob);
+    Test& ob2 = ob;
+    v.push_back(ob2);
+    return 0;}
+```
+## Soluție:
+```
+// Definiția funcției push_back
+template<class type>
+void vector<type>::push_back(const type& x) {
+    if (size_ == capacity_) {
+        capacity_ *= 2;
+        contents_ = (type*)realloc(contents_, capacity_ * sizeof(type));
+    }
+    contents_[size_] = x;
+    size_++;
+}
+```
+
+### v.push_back(1);
+
+- Încearcă o conversie implicită la Test(1). Merge, creează obiectul **(C)**.
+- Observăm size = 0, capacity = 0.
+- În v[0] se copiază obiectul, deci **(CC)**, apoi size = 1.
+- Apoi, obiectul a fost creat prin conversie implicită, deci se șterge: **(D)**.
+
+### Test ob(3);
+
+- Creează obiectul ob cu x = 3 **(C)**.
+
+### v.push_back(ob);
+- Pasează prin referință obiectul ob.
+- size = 1, capacity = 1 -> capacity = 2 -> Se dă realloc, deci se copiază elementul aflat în vector la acel moment, deci **(CC)**.
+- În v[1] se copiază obiectul pasat prin referință, deci **(CC)**, apoi size = 2.
+- Apoi, obiectul temporar creat în realloc se șterge **(D)**.
+
+### Test& ob2 = ob;
+
+- Se creează o referință la acel obiect ob, nu este copiat, doar adresa este copiată.
+
+### v.push_back(ob2);
+- Pasează prin referință obiectul ob.
+- size = 2, capacity = 2 -> capacity = 4 -> Se dă realloc, deci se copiază elementule aflate în vector la acel moment, deci **(CC CC)**.
+- În v[2] se copiază obiectul pasat prin referință, deci **(CC)**, apoi size = 3.
+- Apoi, obiectele temporare create în realloc se șterg: **(D D)**.
+
+La final, sunt șterse 4 obiecte:
+- 3 obiecte din vectorul v **(D D D)**
+- obiectul ob rămas în main **(D)**
+
+### Răspuns final: C CC D C CC CC D CC CC CC D D D D D D
+
+
+
 # Teorie
 ## Metode statice / nestatice:
 - Cele statice sunt descriptive unei clase, iar cele nestatice unui obiect al unei clase.
