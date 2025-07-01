@@ -45,10 +45,10 @@ NES = Notă examen scris
 
 11.03.2025 [Laborator 3](./Laboratoare/Laboratorul%2003/) > Exerciții cu liste și recursivitate
 
-11.03.2025 [Laborator 4](./Laboratoare/Laboratorul%2004/) > Găsirea soluțiilor și puzzle-uri simple
+18.03.2025 [Laborator 4](./Laboratoare/Laboratorul%2004/) > Găsirea soluțiilor și puzzle-uri simple
 
-11.03.2025 [Laborator 5](./Laboratoare/Laboratorul%2005/) > Exerciții și implementarea logicii propoziționale
+25.03.2025 [Laborator 5](./Laboratoare/Laboratorul%2005/) > Exerciții și implementarea logicii propoziționale
 
-11.03.2025 [Laborator 6 (suplimentar)](./Laboratoare/Laboratorul%2006%20%28suplimentar%29/) > Exerciții cu arbori binari ți liste de diferențe
+01.04.2025 [Laborator 6 (suplimentar)](./Laboratoare/Laboratorul%2006%20%28suplimentar%29/) > Exerciții cu arbori binari și liste de diferențe
 
-### **5 credite | Curs <14/14> | Laborator <5/5> | Seminar <7/7> **
+### **4 credite | Curs <14/14> | Laborator <5/5> | Seminar <7/7> **
