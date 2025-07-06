@@ -448,7 +448,7 @@ void vector<type>::push_back(const type& x) {
 
 ### v.push_back(ob2);
 - Pasează prin referință obiectul ob.
-- size = 2, capacity = 2 -> capacity = 4 -> Se dă realloc, deci se copiază elementule aflate în vector la acel moment, deci **(CC CC)**.
+- size = 2, capacity = 2 -> capacity = 4 -> Se dă realloc, deci se copiază elementele aflate în vector la acel moment, deci **(CC CC)**.
 - În v[2] se copiază obiectul pasat prin referință, deci **(CC)**, apoi size = 3.
 - Apoi, obiectele temporare create în realloc se șterg: **(D D)**.
 

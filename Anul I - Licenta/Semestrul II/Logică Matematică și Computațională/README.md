@@ -35,7 +35,7 @@ NES = Notă examen scris
 
 25.02.2025 [Curs 1](./Cursuri/01.%20Introducere%20in%20LMC%20-%2025.02.2025.pdf) > Introducere în Logică Matematică și Computațională
 
-04.03.2025 & 11.03.2025 [Curs 2 & Curs 3](./Cursuri/02.%20Logica%20propozitionala%20-%2003.03.2025.pdf) > Logica propozițională
+Toate cursurile [Curs 2 - 14](./Cursuri/01%20-%2014.%20Cursuri%20LMC%20-%20Semestrul%20II.pdf)
 
 * ### Laboratoare
 
@@ -45,4 +45,6 @@ NES = Notă examen scris
 
 11.03.2025 [Laborator 3](./Laboratoare/Laboratorul%2003/) > Exerciții cu liste și recursivitate
 
-### **5 credite | Curs <3/14> | Laborator <3/14> **
+**RESURSE PENTRU TESTUL DE LABORATOR GĂSIȚI [AICI](./Laboratoare/Colocviu/)**
+
+### **4 credite | Curs <14/14> | Laborator <7/7> | Seminar <7/7> **
