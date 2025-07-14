@@ -9,20 +9,20 @@ Laborator: TEODOR IVASCIUC IANCU
 
 [Resurse curs](https://cs.unibuc.ro/~crusu/asc/)
 
-
-
 * ### Calculul notei semstriale
 
 ```
 Nota finală: min{10, (0.6 * NES + 0.4 * NL + 0.1 NE)}
-NES = Nota examen scris: 1 - 10 (fizic, cu materiale pe masă - fără laptop) >= 5
-NL = Nota la laborator:
-    - 0.1 * TL 0 - 10 (Test laborator - noiembrie) >= 5
-    - 0.1 * Temă 0 - 10 >= 5
-    - 0.2 * NEL 0 - 10 >= 5 (Notă examen laborator - Lab14)
-NE - Notă extra (Proiecte în grup discutate la curs)
-```
 
+NES = Nota examen scris: 1 - 10 (fizic, cu materiale pe masă - fără laptop) >= 5
+
+NL = Nota la laborator:
+    - 0.1 * TL (0 - 10) (Test laborator - noiembrie) >= 5
+    - 0.1 * Temă (0 - 10) >= 5
+    - 0.2 * NEL (0 - 10) >= 5 (Notă examen laborator - Lab14)
+
+NE - Notă extra (Proiecte în grup discutate la curs) - Maxim 1p în plus la nota finală
+```
 
 * ### Cursuri
 
@@ -79,29 +79,29 @@ NE - Notă extra (Proiecte în grup discutate la curs)
 
 **31.10.2024 | TEST LABORATOR > [Subiecte și barem](https://drive.google.com/file/d/1TDFnZe8cdy2Ky_BLvz2Ru8ibCIld2u7X/view?usp=drive_link)**
 
-07.11.2024 [Laborator 6]() >
+07.11.2024 [Laborator 6](./Laboratoare/Laboratorul%20VI%20-%20VIII/00.%20Laborator%20-%20Partea%200x01.pdf) > Probleme avansate în limbajul de programare Assembly x86 (Cap. 2.1, 2.2, 3.1, 3.2)
 
-14.11.2024 [Laborator 7]() >
+14.11.2024 [Laborator 7](./Laboratoare/Laboratorul%20VI%20-%20VIII/00.%20Laborator%20-%20Partea%200x01.pdf) > Probleme avansate în limbajul de programare Assembly x86 (Cap. 2.3 - 2.5)
 
-**17.11.2024 | PREZENTAREA ENUNȚULUI PENTRU PROIECTUL DE LABORATOR > [Subiecte](/Semestrul%20I/Arhitectura%20Sistemelor%20de%20Calcul/Proiecte/Proiect%20obligatoriu/)**
+**17.11.2024 | PREZENTAREA ENUNȚULUI PENTRU PROIECTUL DE LABORATOR > [Subiecte](./Proiecte/Proiect%20obligatoriu/00.%20Enunțul%20temei.pdf)**
 
-21.11.2024 [Laborator 8]() >
+21.11.2024 [Laborator 8](./Laboratoare/Laboratorul%20VI%20-%20VIII/00.%20Laborator%20-%20Partea%200x01.pdf) > Probleme avansate în limbajul de programare Assembly x86 (Cap. 4)
 
-28.11.2024 [Laborator 9]() > 
+28.11.2024 [Laborator 9](./Laboratoare/Laboratorul%20IX%20-%20XII/00.%20Laborator%20-%20Partea%200x02.pdf) > Introducere în RISC-V (Cap. 1, 2, 3.1 - 3.6) 
 
-05.12.2024 [Laborator 10]() >
+05.12.2024 [Laborator 10](./Laboratoare/Laboratorul%20IX%20-%20XII/00.%20Laborator%20-%20Partea%200x02.pdf) > Introducere în RISC-V (Cap. 3.7 - 3.9, 4) 
 
-12.12.2024 [Laborator 11]() >
+12.12.2024 [Laborator 11](./Laboratoare/Laboratorul%20IX%20-%20XII/00.%20Laborator%20-%20Partea%200x02.pdf) > Introducere în RISC-V (Cap. 5) - Pipelining
 
-19.12.2024 [Laborator 12]() >
+19.12.2024 [Laborator 12](./Laboratoare/Laboratorul%20IX%20-%20XII/00.%20Laborator%20-%20Partea%200x02.pdf) > Introducere în RISC-V (Cap. 6) - Cache
 
-**17.11.2024 | PREZENTAREA PROIECTULUI DE LABORATOR (Nota >= 5) > [Subiecte](/Semestrul%20I/Arhitectura%20Sistemelor%20de%20Calcul/Proiecte/Proiect%20obligatoriu/)**
+**17.11.2024 | PREZENTAREA PROIECTULUI DE LABORATOR (Nota >= 5) > [Subiecte](./Proiecte/Proiect%20obligatoriu/00.%20Enunțul%20temei.pdf)**
 
-09.01.2025 [Laborator 13]() > Pipelining
+09.01.2025 [Laborator 13]() > Recapitulare pentru colocviu > [Resurse](./Laboratoare/Teste%20de%20laborator/)
 
 14.01.2025 [Laborator 14]() > **COLOCVIU / TEST DE LABORATOR (Nota >= 5)**
 
-**17.01.2025 | PREZENTAREA PROIECTELOR > [Personal]()**
+**17.01.2025 | PREZENTAREA PROIECTELOR > [Personal](https://github.com/vlaxcs/x86_StorageManager)**
 
 
 ### **4 credite | Curs + Seminar <14/14> | Laborator <14/14>**

@@ -1405,7 +1405,7 @@ false
 */
 
 % Utilă pentru ambele subpuncte.
-% Adevărată doar dacă se doar și-urile se reduc.
+% Adevărată doar dacă doar și-urile se reduc.
 only_var_si(A) :- atom(A).
 only_var_si(si(A, B)) :-
     only_var_si(A),

@@ -44,10 +44,6 @@ NC = 80% NE + 20% NS
 
 **TEST INTERMEDIAR: 29.05.2025** - Geometrie - **[Subiecte](./Examen/Test%20parțial%20-%20S13.pdf)**
 
-**[RECAPITULARE EXAMEN](./Examen/Recapitulare%20Examen.pdf)**
-
-**[CHEATSHEET](./Examen/Cheatsheet.pdf)**
-
 * ### Seminare
 
 27.02.2025 [Seminar 1](./Seminare/01.%20Determinanti.%20Rang%20-%2027.02.2025.pdf) > Determinanți. Rang > [Listă](./Seminare/L.%20Seminarul%201.pdf)
@@ -75,5 +71,12 @@ NC = 80% NE + 20% NS
 22.05.2025 [Seminar 11](./Seminare/11.%20Geometrie%20analitică%20euclidiană%20-%2022.05.2025.pdf) > Geometrie analitică euclidiană > [Listă](./Seminare/L.%20Seminarul%2011.pdf)
 
 29.05.2025 [Seminar 12](./Seminare/12.%20Geometrie%20analitică%20euclidiană%20-%2029.05.2025.pdf) > Geometrie analitică euclidiană > [Listă](./Seminare/L.%20Seminarul%2012.pdf)
+
+## **EXAMEN: 10.06.2025 - [Subiecte](./Examen/Examen%202025.jpg)**
+
+**[RECAPITULARE EXAMEN](./Examen/Recapitulare%20Examen.pdf)**
+
+**[CHEATSHEET](./Examen/Cheatsheet.pdf)**
+
 
 ### **4 credite | Curs <14/14> | Seminar <14/14>**

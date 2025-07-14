@@ -35,7 +35,11 @@ NES = Notă examen scris
 
 25.02.2025 [Curs 1](./Cursuri/01.%20Introducere%20in%20LMC%20-%2025.02.2025.pdf) > Introducere în Logică Matematică și Computațională
 
-Toate cursurile [Curs 2 - 14](./Cursuri/01%20-%2014.%20Cursuri%20LMC%20-%20Semestrul%20II.pdf)
+[Toate cursurile > Curs 2 - 14](./Cursuri/01%20-%2014.%20Cursuri%20LMC%20-%20Semestrul%20II.pdf) (Nu conțin demonstrațiile lăsate ca temă)
+
+* ### Seminare
+
+[Toate seminarele rezolvate > Seminare 1 - 7](./Seminare/)
 
 * ### Laboratoare
 
@@ -44,6 +48,12 @@ Toate cursurile [Curs 2 - 14](./Cursuri/01%20-%2014.%20Cursuri%20LMC%20-%20Semes
 04.03.2025 [Laborator 2](./Laboratoare/Laboratorul%2002/) > Aritmetica, recursivitatea și liste în Prolog
 
 11.03.2025 [Laborator 3](./Laboratoare/Laboratorul%2003/) > Exerciții cu liste și recursivitate
+
+18.03.2025 [Laborator 4](./Laboratoare/Laboratorul%2004/) > Găsirea soluțiilor. Puzzle-uri simple
+
+25.03.2025 [Laborator 5](./Laboratoare/Laboratorul%2005/) > Logică propozițională în Prolog (Util pentru colocviu).
+
+20.05.2025 [Laborator suplimentar](./Laboratoare/Laborator%20Suplimentar/) > Arbori binari. Liste de diferențe. Gramatici
 
 **RESURSE PENTRU TESTUL DE LABORATOR GĂSIȚI [AICI](./Laboratoare/Colocviu/)**
 

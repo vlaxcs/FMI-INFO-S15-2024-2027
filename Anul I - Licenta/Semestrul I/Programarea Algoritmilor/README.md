@@ -91,6 +91,11 @@ NEL = Notă examen laborator: 1 - 10 >= 5 (Se poate susține o singură dată)
 
 08.01.2025 [Laborator 13](./Laboratoare/Laboratorul%2013%20-%20Divide%20et%20Impera/) > Divide et Impera
 
-15.01.2025 [Laborator 14](./Laboratoare/Laboratorul%2014%20-%20Recapitulare%20pentru%20examen/) > Recapitulare pentru examen
+15.01.2025 Laborator 14 > Recapitulare pentru examen
+
+**[Subiect colocviu 2025](./Colocviu/)**
+
+**[Modele de examen rezolvate + Subiect 2025](./Examen/)**
+
 
 ### **5 credite | Curs <14/14> | Seminar <7/7> | Laborator <14/14>**

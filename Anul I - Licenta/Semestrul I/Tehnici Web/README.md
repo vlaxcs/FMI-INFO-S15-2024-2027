@@ -103,4 +103,4 @@ Accesați pagina folosind Chrome sau Chromium, și folosiți funcția de tipări
 
 **[MODELE REZOLVATE DE EXAMEN + EXAMEN 2025](./Examen/)**
 
-### **5 credite | Curs <14> | Laborator <14> | Proiect <14>**
+### **5 credite | Curs <14/14> | Laborator <14/14> | Proiect <7 & 14>**
