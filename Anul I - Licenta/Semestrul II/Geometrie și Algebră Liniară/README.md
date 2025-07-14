@@ -72,7 +72,7 @@ NC = 80% NE + 20% NS
 
 29.05.2025 [Seminar 12](./Seminare/12.%20Geometrie%20analitică%20euclidiană%20-%2029.05.2025.pdf) > Geometrie analitică euclidiană > [Listă](./Seminare/L.%20Seminarul%2012.pdf)
 
-## **EXAMEN: 10.06.2025 - [Subiecte](./Examen/Examen%202025.jpg)**
+* ### **EXAMEN: 10.06.2025 - [Subiecte](./Examen/Examen%202025.jpg)**
 
 **[RECAPITULARE EXAMEN](./Examen/Recapitulare%20Examen.pdf)**
 
