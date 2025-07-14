@@ -14,8 +14,7 @@ Câteva sfaturi pe care aș fi vrut să le știu înainte de a începe facultate
 - Învățați să folosiți Git, măcar cu GitHub Desktop. O să fie absolut necesar încă din primul semestru.
 - Învățați să redactați în LaTeX, de preferat cu Overleaf (sau cel puțin să învățați să vă exprimați corect matematic în limbaj natural ca să traducă ChatGPT ce trebuie).
 - Apelați la Chat doar dacă nu înțelegeți cursul. Dacă aveți nevoie de ajutor, recomand să cereți prima dată de la colegi. Dacă totuși folosiți LLM-uri, nu o faceți evident. Există riscul să fiți sancționați (Avertisment/Exmatriculare).
-- Mulți dintre voi sunteți la buget. Profitați de șansa învățământului gratuit și mergeți la cursuri, pentru a putea înțelege ce se întâmplă la laboratoare/seminare. Dacă nu ați putut ajunge la curs, măcar citiți suportul în aceeași săptămână. Acest sfat vă va face sesiunile mai ușoare.
-- Cel mai important: Chiar dacă ați fost olimpici în liceu, nu sunteți mai presus decât studenții celorlalte serii. Nu aveți niciun motiv să vă purtați diferit cu colegi din grupele care nu vă convin. Acest comportament nu este apreciat în facultate.
+- Mulți dintre voi sunteți la buget. Profitați de aceată șansă și mergeți la cursuri, pentru a putea înțelege ce se întâmplă la laboratoare/seminare. Dacă nu ați putut ajunge la curs, măcar citiți suportul în aceeași săptămână. Acest sfat vă va face sesiunile mai ușoare.
 
 ## **Cursuri**
 
