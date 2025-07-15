@@ -50,23 +50,23 @@ Proiectul se desfășoară în 3 etape. Poate fi realizat un proiect de ansamblu
 
 03.03.2025 [Curs 2](./Cursuri/02.%20Generalitati%20POO%20-%2003.03.2025.pdf) > Clase, obiecte, modificatori de acces, funcții și clase prieten, constructor / destructor > [Cod curs](./Cursuri/Coduri%20curs/02.%20Source.cpp)
 
-10.03.2025 [Curs 3](./Cursuri/03.%20Class,%20struct,%20union.%20Functii%20si%20clase%20prieten.%20Functii%20inline.%20Constructori%20si%20destructori%20-%2010.03.2025.pdf) Class, struct, union. Funcții si clase prieten. Funcții inline. Constructori si destructori
+10.03.2025 [Curs 3](./Cursuri/03.%20Class,%20struct,%20union.%20Functii%20si%20clase%20prieten.%20Functii%20inline.%20Constructori%20si%20destructori%20-%2010.03.2025.pdf) > Class, struct, union. Funcții si clase prieten. Funcții inline. Constructori si destructori
 
-17.03.2025 [Curs 4](./Cursuri/04.%20Membrii%20statici.%20Clase%20locale.%20Operator%20de%20rezolutie.%20Overload%20-%2017.03.2025.pdf) Membrii statici. Clase locale. Operator de rezolutie. Overload
+17.03.2025 [Curs 4](./Cursuri/04.%20Membrii%20statici.%20Clase%20locale.%20Operator%20de%20rezolutie.%20Overload%20-%2017.03.2025.pdf) > Membrii statici. Clase locale. Operator de rezolutie. Overload
 
-24.03.2025 [Curs 5](./Cursuri/05.%20Mostenire%20-%2024.03.2025.pdf) Moștenire
+24.03.2025 [Curs 5](./Cursuri/05.%20Mostenire%20-%2024.03.2025.pdf) > Moștenire
 
-31.03.2025 [Curs 6](./Cursuri/06.%20Polimorfism.%20Functii%20virtuale.%20Clase%20abstracte%20-%2031.03.2025.pdf) Polimorfism. Functii virtuale. Clase abstracte
+31.03.2025 [Curs 6](./Cursuri/06.%20Polimorfism.%20Functii%20virtuale.%20Clase%20abstracte%20-%2031.03.2025.pdf) > Polimorfism. Functii virtuale. Clase abstracte
 
-07.04.2025 [Curs 7](./Cursuri/07.%20Tratarea%20exceptiilor%20-%2007.04.2025.pdf) Tratarea excepțiilor
+07.04.2025 [Curs 7](./Cursuri/07.%20Tratarea%20exceptiilor%20-%2007.04.2025.pdf) > Tratarea excepțiilor
 
-14.04.2025 [Curs 8](./Cursuri/08.%20Virtualizare.%20RAII.%20Interfete%20non-virtuale.%20Downcasting.%20Mostenire%20multipla.%20Tratarea%20exceptiilor%20-%2014.04.2025.pdf) Virtualizare. RAII. Interfețe non-virtuale. Downcasting. Moștenire multiplă. Tratarea excepțiilor
+14.04.2025 [Curs 8](./Cursuri/08.%20Virtualizare.%20RAII.%20Interfete%20non-virtuale.%20Downcasting.%20Mostenire%20multipla.%20Tratarea%20exceptiilor%20-%2014.04.2025.pdf) > Virtualizare. RAII. Interfețe non-virtuale. Downcasting. Moștenire multiplă. Tratarea excepțiilor
 
-28.04.2025 [Curs 9](./Cursuri/09.%20RTII.%20Templates%20-%2028.04.2025.pdf) RTII. Templates
+28.04.2025 [Curs 9](./Cursuri/09.%20RTII.%20Templates%20-%2028.04.2025.pdf) > RTII. Templates
 
-05.05.2025 [Curs 10](./Cursuri/10.%20STL%20Containers,%20utility,%20lambda%20expresii%20-%2005.05.2025.pdf) STL Containers, utility, lambda expresii
+05.05.2025 [Curs 10](./Cursuri/10.%20STL%20Containers,%20utility,%20lambda%20expresii%20-%2005.05.2025.pdf) > STL Containers, utility, lambda expresii
 
-19.05.2025 [Curs 11](./Cursuri/11.%20Pointeri%20si%20referinte.%20Const.%20Mutable.%20Static%20-%2019.05.2025.pdf) Pointeri si referințe. Const. Mutable. Static
+19.05.2025 [Curs 11](./Cursuri/11.%20Pointeri%20si%20referinte.%20Const.%20Mutable.%20Static%20-%2019.05.2025.pdf) > Pointeri si referințe. Const. Mutable. Static
 
 * ### Laboratoare
 
