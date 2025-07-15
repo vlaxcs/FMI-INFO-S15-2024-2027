@@ -1,7 +1,5 @@
 -- LABORATOR 9 - SĂPTĂMÂNA 13
 
-Ex: Să se obțină
-
 EX: Să se obțină codurile salariaților atașați tuturor proiectelor 
 pentru care s-a alocat un buget egal cu 10000.
 

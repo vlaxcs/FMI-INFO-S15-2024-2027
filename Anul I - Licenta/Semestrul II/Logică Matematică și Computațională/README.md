@@ -57,4 +57,4 @@ NES = Notă examen scris
 
 **RESURSE PENTRU TESTUL DE LABORATOR GĂSIȚI [AICI](./Laboratoare/Colocviu/)**
 
-### **4 credite | Curs <14/14> | Laborator <7/7> | Seminar <7/7> **
+### **4 credite | Curs <14/14> | Laborator <7/7> | Seminar <7/7>**
