@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Formular pentru intrarea în Sistemul Solar</title>
+      <meta charset="utf-8">
+      <link rel="stylesheet" href="style.css" type="text/css">
+      <script type="text/javascript" src="form.js"></script>
+   </head>
+   <body>
+   <h3>FORMULAR PENTRU INTRAREA ÎN SISTEMUL SOLAR</h3>
+      
+      <div id="container"> 
+         <form action="/Earth" method="post">
+            <div id="datePers">
+               <p>Date personale</p>
+               <label for="name">Nume:</label>
+               <input type="text" id="name" name='name' required minlength="3" maxlength="30">
+
+               <label for="uid">ID:</label>
+               <input type="text" id="uid" name="uid" required minlength="8" maxlength="20" pattern="[A-Z]{2}[0-9]{6,}">
+
+               <label for="birthday">Birth date:</label>
+               <input type="date" id="birthday" name="birthday" required min="1800-01-01">
+
+               <label for="credit">Social credit:</label>
+               <input type="number" id="credit" name="credit" required step="50" min="0" max="2000">
+
+               <label for="photo">Photo:</label>
+               <input type="file" id="photo" name="photo">
+
+               <label for="race">Race:</label>
+               <input type="text" id="race" name="race">
+
+            </div>
+
+            <div id="contact">
+               <p>Contact</p>
+               <label for="galaxy">Galaxie de provenienta:</label>
+               <input type="text" id="galaxy" name='galaxy' required>
+
+               <label for="planet">Planeta de provenienta:</label>
+               <input type="text" id="planet" name='planet' required>
+
+               <label for="adresa">Adresa:</label>
+               <textarea required id="adresa" name="adresa"></textarea>
+
+               <label for="telefon">Telefon:</label>
+               <input type="text" id="telefon" name="telefon" pattern="[0-9]{10}">
+
+               <label for="mail">E-mail:</label>
+               <input type="email" id="mail" name="mail">
+
+               <label for="weburl">Web URL:</label>
+               <input type="text" id="telefon" name="telefon" pattern="^https://.*\.com$">
+            </div>
+
+            <div id="vizita">
+               <p>Vizita</p>
+               <label for="arriveDate">Data sosire:</label>
+               <input type="date" id="arriveDate" name="arriveDate" required min="2024-05-13" value="2024-05-13">
+               <br>
+
+               <label for="arriveHour">Timp estimat sosire:</label>
+               <input type="time" id="arriveHour" name="arriveHour" required>
+                      <div id="radio-group">
+                        <p>Sedere:</p>
+                            <input type="radio" id="sedTemp" name="sedere" value="temporara">
+                            <label for="sedTemp">Temporara</label>
+                            <input type="radio" id="sedPerm" name="sedere" value="permanenta">
+                            <label for="sedPerm">Permanenta</label>
+                      </div>
+                      <div id="check-group">
+                        <p>Scopul vizitei:</p>
+                        <label for="afaceri">Afaceri</label>
+                        <input type="checkbox" id="afaceri" name="afaceri">
+      
+                        <label for="turism">Turism</label>
+                        <input type="checkbox" id="turism" name="turism">
+                        
+                        <label for="invazie">Invazie</label>
+                        <input type="checkbox" id="invazie" name="invazie">
+                      </div>
+            </div>
+
+
+            <input type="submit" value="Submit">
+         </form>
+      </div>
+
+   </body>
+</html>
