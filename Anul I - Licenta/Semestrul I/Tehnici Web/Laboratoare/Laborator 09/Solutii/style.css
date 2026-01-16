@@ -1,0 +1,89 @@
+/* box-sizing for including padding */
+html {
+  box-sizing: border-box;
+}
+
+* {
+  box-sizing: inherit;
+}
+
+*:before, *:after {
+    box-sizing: inherit;
+}
+
+
+body {
+  min-height: 100vh;
+  font-family: Fira Mono, monospace;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-color: #201B3C;
+}
+
+
+#container div {
+  margin: 12px;
+  padding: 5%;
+  width: 60%;
+  max-width: 600px;
+  text-align: center;
+  border: 2px solid white;
+}
+
+fieldset {
+  margin-bottom: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#datePers label, #contact label{
+  display: inline-block;
+  margin-top: 10px;
+  margin-right: 10px;
+  min-width: 100px;
+}
+
+p{
+  width: auto;
+  margin-top: -5%;
+}
+
+input {
+  display: inline-block;
+  margin-bottom: 10px;
+  width: 200px;
+}
+
+textarea {
+  resize: none;
+  margin-top: 10px;
+}
+
+#radio-group {
+  justify-self: center;
+  display: flex;
+  justify-content: center;
+  border: none !important;
+}
+
+#check-group {
+  justify-self: center;
+  display: flex;
+  justify-content: center;
+  border: none !important;
+  margin-bottom: -5%;
+}
+
+#check-group p{
+  margin-right: 10%;
+}
+#check-group input{
+  margin-bottom: 35%;
+}

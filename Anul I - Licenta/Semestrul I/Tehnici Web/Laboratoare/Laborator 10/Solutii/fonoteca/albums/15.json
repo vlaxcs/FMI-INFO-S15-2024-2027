@@ -1,0 +1,9 @@
+  {
+    "name" : "Sgt. Pepper's Lonely Hearts Club Band",
+    "artist" : "The Beatles",
+    "year" :   1967,
+    "image" : "sgt-peppers-lonely-hearts-club-band-1.jpg",
+    "label" : "Parlophone, Capitol Records",
+    "format" : "LP",
+    "genres" : ["Pop Rock", "Psychedelic Pop", "Psychedelic Rock", "Art Rock"]
+  }

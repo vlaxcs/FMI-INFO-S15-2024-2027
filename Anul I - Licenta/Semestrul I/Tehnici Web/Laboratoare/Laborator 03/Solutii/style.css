@@ -1,0 +1,77 @@
+main{
+    background-color: rgb(255, 244, 218);
+    font-family: 'Lucida Console','Courier New', Courier, monospace;
+    line-height: 150%;
+    padding: 1%;
+}
+
+header{
+    background-color: bisque;
+    line-height: 200%;
+    text-align: center;
+    color: rgb(160, 115, 0);
+    font-family: 'Consolas', 'Courier New', Courier, monospace;
+    font-size: larger;
+    padding: 1%;
+}
+
+footer{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    background-color: rgb(162, 96, 96);
+    color: white;
+    padding: 2%;
+    text-align: right;
+}
+
+a{
+    color: orange;
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(124, 114, 0);
+}
+
+nav a{
+    color: rgb(243, 69, 42);
+}
+
+#heading{
+    color: brown;
+    font-size: 250%;
+    text-shadow: 1px 1px 1px black;
+}
+
+h2{
+    color: rgb(165, 132, 42);
+}
+
+h3{
+    color: rgb(160, 56, 0);
+}
+
+ol{
+    list-style: square;
+    line-height: 200%;
+    margin: 1% auto;
+}
+
+iframe{
+    display: block;
+    border: none;
+    text-align: center;
+    padding-bottom: 5%;
+    margin: 0 auto;
+}
+
+.progModule{
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.videos{
+    display: inline;
+    padding: 1%;
+}

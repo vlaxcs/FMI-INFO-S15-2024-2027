@@ -1,0 +1,9 @@
+ {
+    "name" : "The Velvet Underground & Nico",
+    "artist" : "The Velvet Underground & Nico",
+    "year" :   1967,
+    "image" : "the-velvet-underground-nico.jpg",
+    "label" : "Verve",
+    "format" : "LP",
+    "genres" : ["Art Rock", "Experimental Rock", "Protopunk", "Garage Rock "]
+  }
