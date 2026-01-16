@@ -1,0 +1,77 @@
+[
+  {
+    "name" : "Selected Ambient Works Volume II",
+    "artist" : "Aphex Twin",
+    "image" : "selected-ambient-works-volume-ii.webp"
+  },
+  {
+    "name" : "Journey in Satchidananda",
+    "artist" : "Alice Coltrane",
+    "image" : "39553-journey-in-satchidananda.jpg"
+  },
+    {
+    "name" : "Trout Mask Replica",
+    "artist" : "Captain Beefheart & His Magic Band",
+    "image" : "7020-trout-mask-replica.jpg"
+  },
+    {
+    "name" : "Remain in Light",
+    "artist" : "Talking Heads",
+    "image" : "remain-in-light-2.webp"
+  },
+    {
+    "name" : "Bach: The Goldberg Variations",
+    "artist" : "Glenn Gould",
+    "image" : "75982-bach-the-goldberg-variations-82-1.webp"
+  },
+    {
+    "name" : "Einstein on the Beach",
+    "artist" : "Philip Glass",
+    "image" : "65424-einstein-on-the-beach-1.jpg"
+  },
+    {
+    "name" : "Music for 18 Musicians",
+    "artist" : "Steve Reich and Musicians",
+    "image" : "6311-music-for-18-musicians.jpg"
+  },
+    {
+    "name" : "Head Hunters",
+    "artist" : "Herbie Hancock",
+    "image" : "6316-head-hunters.webp"
+  },
+    {
+    "name" : "Blood on the Tracks",
+    "artist" : "Bob Dylan",
+    "image" : "blood-on-the-tracks.webp"
+  },
+    {
+    "name" : "Hounds of Love",
+    "artist" : "Kate Bush",
+    "image" : "6495-hounds-of-love.webp"
+  },
+      {
+    "name" : "Heroes",
+    "artist" : "David Bowie",
+    "image" : "5662-heroes.webp"
+  },
+      {
+    "name" : "Maggot Brain",
+    "artist" : "Funkadelic",
+    "image" : "6305-maggot-brain-1.jpg"
+  },
+      {
+    "name" : "Before and After Science",
+    "artist" : "Before and After Science",
+    "image" : "6098-before-and-after-science.jpg"
+  },
+      {
+    "name" : "The Velvet Underground & Nico",
+    "artist" : "The Velvet Underground & Nico",
+    "image" : "the-velvet-underground-nico.jpg"
+  },
+      {
+    "name" : "Sgt. Pepper's Lonely Hearts Club Band",
+    "artist" : "The Beatles",
+    "image" : "sgt-peppers-lonely-hearts-club-band-1.jpg"
+  }
+]

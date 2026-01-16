@@ -1,0 +1,65 @@
+@font-face {
+    font-family: "MarioFont";
+    src: url("fonts/BoldPixels.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+body{
+    font-family: 'MarioFont', 'Courier New', 'Courier', 'monospace';
+    color: #FFCCCC;
+    background-color: #5C94FC;
+    text-align: center;
+    font-size: larger;
+    text-shadow: 1px 1px 1px black;
+}
+
+h1{
+    background-color: #D64D00;
+    border: 2px solid #7f2e00;
+    padding: 1%;
+}
+
+h2{
+    width: fit-content;
+    display: block;
+    margin: 0 auto;
+    background-color: #D64D00;
+    border: 2px solid #7f2e00;
+    padding: 1%;
+}
+
+a{
+    color:white;
+}
+
+a:hover{
+    color: #FFCCCC;
+}
+
+table{
+    margin: 0 auto;
+    width: 50%;
+    background-color: #80D010;
+    padding: 1%;
+    border: 2px solid black;
+}
+
+td, th{
+    padding: 1%;
+}
+
+tr:nth-child(even){
+    background-color: #6caf0d;
+}
+
+figure{
+    padding: 1%;
+}
+
+img{
+    border: 3px solid black;
+    background-color: white;
+    padding: 1%;
+}
