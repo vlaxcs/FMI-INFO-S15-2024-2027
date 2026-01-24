@@ -1,0 +1,9 @@
+ {
+    "name" : "Blood on the Tracks",
+    "artist" : "Bob Dylan",
+    "year" :   1975,
+    "image" : "blood-on-the-tracks.webp",
+    "label" : "Columbia ",
+    "format" : "LP",
+    "genres" : ["Singer-Songwriter", "Folk Rock"]
+  }

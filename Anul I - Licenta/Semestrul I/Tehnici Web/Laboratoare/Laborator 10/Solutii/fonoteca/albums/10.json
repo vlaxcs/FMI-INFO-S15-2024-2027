@@ -1,0 +1,9 @@
+{
+    "name" : "Heroes",
+    "artist" : "David Bowie",
+    "year" :    1977,
+    "image" : "5662-heroes.webp",
+    "label" : "RCA",
+    "format" : "LP",
+    "genres" : ["Art Rock", "Experimental Rock", "Ambient", "Electronic"]
+  }

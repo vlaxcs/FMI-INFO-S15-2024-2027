@@ -1,0 +1,18 @@
+/* 
+Înlocuiți simbolurile ? cu valori potrivite pentru 
+a completa regulile CSS de mai jos.
+*/
+
+.main {
+  display: flex;
+  --s: 100px;  /* size */
+  --m: 4px;    /* margin */
+}
+
+.main div {
+  width: var(--s);
+  margin: var(--m);
+  height: calc(var(--s)*1.1547); /* h=s/cos(30) */
+  background: black;
+  clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+}

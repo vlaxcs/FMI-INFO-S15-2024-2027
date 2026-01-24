@@ -41,7 +41,7 @@ Câteva sfaturi pe care aș fi vrut să le știu înainte de a începe facultate
 | [Logică Matematică și Computațională](./Semestrul%20II/Logică%20Matematică%20și%20Computațională/) | 14 | 7 | 7 | 4 | Colocviu + Examen | 14 Iunie 2025 | Complet |
 | [Baze de Date](./Semestrul%20II/Baze%20de%20Date/) | 14 | 14 | - | 5 | Colocviu + Examen | 16 Iunie 2025 | Complet
 | [Limbaje Formale și Automate](./Semestrul%20II/Limbaje%20Formale%20și%20Automate/) | 14 | 7 | 7 | 5 | Proiect(e x3) + Examen | 19 Iunie 2025 | Complet |
-| [Structuri de Date](./Semestrul%20II/Structuri%20de%20Date/)| 14 | 7 | 7 | 5 | Examen | 27 Iunie 2025 | Complet
+| [Structuri de Date](./Semestrul%20II/Structuri%20de%20Date/)| 14 | 7 | 7 | 5 | Proiect(e x2) + Teme + Examen | 27 Iunie 2025 | Complet
 | [Programare Orientată pe Obiecte](./Semestrul%20II/Programare%20Orientata%20pe%20Obiecte/) | 14 | 14 | 7 | 6 | Proiect(e x3) + Colocviu + Examen | 23 Iunie 2025 | Complet |
 | Modulul Psihopedagogic | 14 | - | 14 | - | Examen | 27 Iunie 2025 | Resurse veți primi pe Google Classroom |
 | Limba Franceză | 14 | - | - | 2 | Eseu | 12 Iunie 2025 | Resurse veți primi pe Google Classroom |
