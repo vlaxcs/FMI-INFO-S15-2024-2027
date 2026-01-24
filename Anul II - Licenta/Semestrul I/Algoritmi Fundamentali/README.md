@@ -1,6 +1,6 @@
 ## BFS / DFS
 
-### [BFS](https://www.infoarena.ro/problema/bfs) | [Soluție](/bfs.cpp)
+### [BFS](https://www.infoarena.ro/problema/bfs) | [Soluție](./bfs.cpp)
 - Parcurge în lățime (prima dată pe același nivel)
 - Complexitate: O(V * E)
 - Memorie: O(n + m)
@@ -12,7 +12,7 @@
             - Îi marcăm ca vizitați
             - Setăm timpul de vizitare la 1 + timpul nodului părinte
 
-### [DFS](https://www.infoarena.ro/problema/dfs) | [Soluție](/dfs.cpp)
+### [DFS](https://www.infoarena.ro/problema/dfs) | [Soluție](./dfs.cpp)
 - Parcurge în adâncime / Determină numărul de componente conexe
 - Complexitate: O(V * E)
 - Memorie: O(n + m)
@@ -23,24 +23,24 @@
         - Se vizitează doar cei nevizitați: DFS(neighbour)
 
 
-- [Berarii](https://www.infoarena.ro/problema/berarii2) | [Soluție](/berarii2_100p.cpp)
+- [Berarii](https://www.infoarena.ro/problema/berarii2) | [Soluție](./berarii2_100p.cpp)
     - Se face DFS din fiecare berărie, deci se inversează drumurile
     - Nodurile nevizitate sunt intersecțiile căutate
 
-- [Grarb](https://www.infoarena.ro/problema/grarb) | [Soluție](/grarb.cpp)
+- [Grarb](https://www.infoarena.ro/problema/grarb) | [Soluție](./grarb.cpp)
     - Pentru structura de arbore trebuie să adăugăm:
         - Adăugăm: CC - 1 muchii pentru a uni componentele conexe
         - Știm că N - CC este numărul muchii pentru a nu forma cicluri
         - Eliminăm: M - (N - CC) muchii pentru a nu avea cicluri
     - Numărul de componente conexe e dat de numărul de parcurgeri DFS / BFS
 
-- [Amici2](https://www.infoarena.ro/problema/amici2) | [Soluție](/amici2.cpp)
+- [Amici2](https://www.infoarena.ro/problema/amici2) | [Soluție](./amici2.cpp)
     - Facem BFS dintr-un nod și aflăm distanța maximă dintre două noduri
     - Distanța maximă >= D/2 (diametrul grafului)
     - Rezultat ~ ceil(log2(dmax)) - Fiecare zi dublează viteza de împrietenire 
 
 
-## Puncte și muchii critice | [Algoritm](/biconex.cpp)
+## Puncte și muchii critice | [Algoritm](./biconex.cpp)
 - Puncte critice: Le scoți -> graful nu mai e conex
 - Muchii critice: Le scoți -> graful nu mai e conex
 
@@ -67,7 +67,7 @@ Un algoritm DFS:
 - La final, dacă e rădăcină și are mai mult de un fiu e punct critic
     - tata[p] == 0 && fii_p > 1
 
-## Componente biconexe | [Algoritm](/biconex.cpp)
+## Componente biconexe | [Algoritm](./biconex.cpp)
 Același algoritm ca mai sus, cu mici schimbări:
 - Dacă vecinul e nevizitat, adăugăm muchia într-o stivă
     - s.push({p, ngh})
@@ -83,7 +83,7 @@ Același algoritm ca mai sus, cu mici schimbări:
     - Acest set este componenta biconexă
         - Un punct poate face parte din mai multe componente biconexe!
 
-## Algorimul lui Kosaraju | [Algoritm](/kosaraju_ctc.cpp)
+## Algorimul lui Kosaraju | [Algoritm](./kosaraju_ctc.cpp)
 - Se folosește pentru determinarea componentelor tare conexe
 - Implementare:
     - Construim graful G în listele de adiacență GR și graful GT în listele de adiacență GT;
@@ -92,12 +92,12 @@ Același algoritm ca mai sus, cu mici schimbări:
     - La fiecare DFS început parcurâng vectorul găsim o nouă componentă conexă, în timpul DFS-ului adăugăm toate nodurile găsite în această nouă componentă conexă.
 
 ### Probleme:
-- [Componente tare conexe](/kosaraju_ctc.cpp) ~ Strict implementarea Kosaraju
+- [Componente tare conexe](./kosaraju_ctc.cpp) ~ Strict implementarea Kosaraju
 
 ## Arbori Parțiali de Cost Minim
 
 - [Problema APM](https://www.infoarena.ro/problema/apm)
-    - **Kruskal | [Algoritm](/kruskal.cpp)**
+    - **Kruskal | [Algoritm](./kruskal.cpp)**
         - Sortăm muchiile după cost / Folosim heap cu criteriu pe cost
         - Inițializăm tații (fiecare nod este rădăcină la început, înălțimea 0)
         - Reprezentanții sunt rădăcinile componentelor conexe
@@ -109,7 +109,7 @@ Același algoritm ca mai sus, cu mici schimbări:
             - Dacă sunt diferiți, adăugăm muchia în arbore, union pe capete
             - Dacă avem deja n - 1 muchii în arbore, ne oprim
     
-    - **Prim | [Algoritm](/prim.cpp)**
+    - **Prim | [Algoritm](./prim.cpp)**
         - Stocăm muchiile în liste de adiacență (to, cost)
         - Costul din sursă e mereu 0
         - Adăugăm muchia (sursă, 0) în priority queue, acest pq le ține descrescător după cost
@@ -127,7 +127,7 @@ Același algoritm ca mai sus, cu mici schimbări:
 - tbc
     - https://www.infoarena.ro/problema/camionas
 
-## Sortare topologică / [Algoritmul lui Kahn](/kahn.cpp)
+## Sortare topologică / [Algoritmul lui Kahn](./kahn.cpp)
 - tbc
 
 
@@ -142,32 +142,32 @@ if (!visited[to] && d[current] + cost < d[to]) {
 ```
 
 - Probleme cu Dikstra:
-    - [Catun](https://www.infoarena.ro/problema/camionas) | [Solutie](/catun.cpp)
+    - [Catun](https://www.infoarena.ro/problema/camionas) | [Solutie](./catun.cpp)
 
 
 ## Teste de laborator
 - [Test AF 1](https://www.hackerrank.com/contests/test-laborator-af-1)
-    - C 1.1: Sortare topologică minim lexicografică | [Soluție](/kahn_topo_lexico.cpp)
+    - C 1.1: Sortare topologică minim lexicografică | [Soluție](./kahn_topo_lexico.cpp)
         - Se folosește **Algoritmul lui Kahn** (adăugăm într-o coadă toate nodurile cu indegree 0, ulterior facem BFS din coadă și la un vecin găsit scădem gradul acestuia până ajunge la 0, ulterior îl adăugăm și pe acesta în coadă | se ignoră 'revizitările', e graf aciclic)
         - Se cere ordinea minimă lexicografic pe nivel de prioritate, deci o să folosim coadă de priorități / **priority queue (min-heap!)**
-    - C 1.2: Q queries K face parte din drum minim (i, j)? | [Soluție](/q_queries_k_in_ij_min.cpp)
+    - C 1.2: Q queries K face parte din drum minim (i, j)? | [Soluție](./q_queries_k_in_ij_min.cpp)
         - Precalculăm cu **Roy-Floyd** (fără matrice de părinți)
         - În fiecare query, facem drumul de la j la i și verificăm dacă apare K
         - Graf neorientat <=> p[x][y] = x, p[y][x] = y
         - Apare **K în ORICE drum de cost minims?** Nu e suficient să reconstruim drumul, pentru că se reface 'un singur drum aleatoriu de lungime minimă' -> Există drum cu k conținut de (i, j) dacă d[i][j] = d[i][k] + d[k][j]
-    - C 1.3: Sudoku fără supracelule | [Soluție](/simple_sudoku.cpp)
+    - C 1.3: Sudoku fără supracelule | [Soluție](./simple_sudoku.cpp)
         - Se poate rezolva cu backtracking
 - [Test AF 2](https://www.hackerrank.com/contests/test-laborator-af-2/challenges)
-    - C 2.1: Sortare topologică maxim lexicografică | [Soluție](/kahn_topo_lexicomax.cpp)
+    - C 2.1: Sortare topologică maxim lexicografică | [Soluție](./kahn_topo_lexicomax.cpp)
         - Se folosește **Algoritmul lui Kahn**, cu **priority queue default**
         - Putem verifica dacă există cicluri / dacă nu au fost vizitate toate nodurile, caz în care le putem afișa pe cele nevizitate la final (nu e cazul în problema asta)
-    - C 2.2: Q queries K nu face parte din niciun drum minim (i, j)? | [Soluție](/q_queries_not_k_in_ij_min.cpp)
+    - C 2.2: Q queries K nu face parte din niciun drum minim (i, j)? | [Soluție](./q_queries_not_k_in_ij_min.cpp)
         - Singura diferență față de 1.2 este condiția pentru răspuns:
             - `d[x][y] == INF || (d[x][y] != INF && d[x][y] != d[x][k] + d[k][y])`;
 
 - [Test AF 4](https://www.hackerrank.com/contests/test-laborator-af-4)
     - C 4.1: Adăugarea muchiei (i, j) scurtează drumul (1, n)?
-        - 15p | [Soluție](/muchie_noua_scurteaza_15p.cpp)
+        - 15p | [Soluție](./muchie_noua_scurteaza_15p.cpp)
             - Facem BFS din 1 și păstrăm distanțele în vectorul C
             - Pentru fiecare întrebare, dacă muchia nu există deja, facem BFS și păstrăm distanțele în vectorul D
             - Dacă D[n] < C[n] înseamnă că muchia nouă poate reduce distanța
