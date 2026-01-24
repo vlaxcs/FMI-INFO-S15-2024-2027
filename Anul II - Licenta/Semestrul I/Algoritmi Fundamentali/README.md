@@ -131,7 +131,7 @@ Același algoritm ca mai sus, cu mici schimbări:
 - tbc
 
 
-## Dijkstra | [Algoritm](https://www.infoarena.ro/problema/dijkstra)
+## [Dijkstra - Infoarena](https://www.infoarena.ro/problema/dijkstra) ||| [Algoritm](./dijkstra.cpp)
 - Exact ca la Prim, dar diferă condiția de selecție a costului minim:
 ```
 if (!visited[to] && d[current] + cost < d[to]) {
