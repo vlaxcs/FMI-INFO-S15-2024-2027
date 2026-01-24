@@ -8,9 +8,9 @@
     - Îl adăugăm în coadă
     - Câtă vreme coada nu e vidă:
         - Nodul curent devine vârful cozii
-        - Adăugăm toți vecinii nodului curent în coadă:
+        - Adăugăm toți vecinii nevizitați ai nodului curent în coadă:
             - Îi marcăm ca vizitați
-            - Setăm timpul de vizitare la 1 + timpul nodului părinte
+            - Setăm timpul de vizitare la 1 + timpul nodului curent / părinte
 
 ### [DFS](https://www.infoarena.ro/problema/dfs) | [Soluție](./dfs.cpp)
 - Parcurge în adâncime / Determină numărul de componente conexe
@@ -21,7 +21,6 @@
     - Se marchează vizitat
     - Pentru toți vecinii acestui nod nou vizitat
         - Se vizitează doar cei nevizitați: DFS(neighbour)
-
 
 - [Berarii](https://www.infoarena.ro/problema/berarii2) | [Soluție](./berarii2_100p.cpp)
     - Se face DFS din fiecare berărie, deci se inversează drumurile
@@ -149,17 +148,17 @@ if (!visited[to] && d[current] + cost < d[to]) {
 - [Test AF 1](https://www.hackerrank.com/contests/test-laborator-af-1)
     - C 1.1: Sortare topologică minim lexicografică | [Soluție](./kahn_topo_lexico.cpp)
         - Se folosește **Algoritmul lui Kahn** (adăugăm într-o coadă toate nodurile cu indegree 0, ulterior facem BFS din coadă și la un vecin găsit scădem gradul acestuia până ajunge la 0, ulterior îl adăugăm și pe acesta în coadă | se ignoră 'revizitările', e graf aciclic)
-        - Se cere ordinea minimă lexicografic pe nivel de prioritate, deci o să folosim coadă de priorități / **priority queue (min-heap!)**
+        - Se cere ordinea minimă lexicografic pe nivel de prioritate, deci o să folosim **priority queue pentru cost minim (min-heap!)**
     - C 1.2: Q queries K face parte din drum minim (i, j)? | [Soluție](./q_queries_k_in_ij_min.cpp)
         - Precalculăm cu **Roy-Floyd** (fără matrice de părinți)
         - În fiecare query, facem drumul de la j la i și verificăm dacă apare K
         - Graf neorientat <=> p[x][y] = x, p[y][x] = y
-        - Apare **K în ORICE drum de cost minims?** Nu e suficient să reconstruim drumul, pentru că se reface 'un singur drum aleatoriu de lungime minimă' -> Există drum cu k conținut de (i, j) dacă d[i][j] = d[i][k] + d[k][j]
+        - Apare **K în ORICE drum de cost minim?** Nu e suficient să reconstruim drumul, pentru că se reface 'un singur drum aleatoriu de lungime minimă' -> Există drum cu k conținut de (i, j) dacă d[i][j] = d[i][k] + d[k][j]
     - C 1.3: Sudoku fără supracelule | [Soluție](./simple_sudoku.cpp)
         - Se poate rezolva cu backtracking
 - [Test AF 2](https://www.hackerrank.com/contests/test-laborator-af-2/challenges)
     - C 2.1: Sortare topologică maxim lexicografică | [Soluție](./kahn_topo_lexicomax.cpp)
-        - Se folosește **Algoritmul lui Kahn**, cu **priority queue default**
+        - Se folosește **Algoritmul lui Kahn**, cu **priority queue (max-heap)**
         - Putem verifica dacă există cicluri / dacă nu au fost vizitate toate nodurile, caz în care le putem afișa pe cele nevizitate la final (nu e cazul în problema asta)
     - C 2.2: Q queries K nu face parte din niciun drum minim (i, j)? | [Soluție](./q_queries_not_k_in_ij_min.cpp)
         - Singura diferență față de 1.2 este condiția pentru răspuns:
