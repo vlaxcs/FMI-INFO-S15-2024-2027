@@ -2,7 +2,7 @@
 
 ### [BFS](https://www.infoarena.ro/problema/bfs) | [Soluție](./bfs.cpp)
 - Parcurge în lățime (prima dată pe același nivel)
-- Complexitate: O(V * E)
+- Complexitate: O(V + E)
 - Memorie: O(n + m)
 - Pentru un nod sursă:
     - Îl adăugăm în coadă
@@ -14,7 +14,7 @@
 
 ### [DFS](https://www.infoarena.ro/problema/dfs) | [Soluție](./dfs.cpp)
 - Parcurge în adâncime / Determină numărul de componente conexe
-- Complexitate: O(V * E)
+- Complexitate: O(V + E)
 - Memorie: O(n + m)
 - Pentru fiecare nod nevizitat:
     - Nodul nevizitat devine sursa DFS-ului
@@ -123,11 +123,18 @@ Același algoritm ca mai sus, cu mici schimbări:
 
 
 ## BFS10
-- tbc
-    - https://www.infoarena.ro/problema/camionas
+- BFS cu PQ sau Deque, dacă o condiție este respectată, muchia are costul 1, altfel are costul 0
+- Se adaugă în fața Deque-ului dacă e 1, sau în spate dacă e 0 | Cu PQ o să intre automat pe nivelul superior cele care respectă condiția
+
+Problemă: 
+- [Camionas](https://www.infoarena.ro/problema/camionas)
 
 ## Sortare topologică / [Algoritmul lui Kahn](./kahn.cpp)
-- tbc
+- Funcționează bine pe graf aciclic
+- Se setează gradul de intrare pentru fiecare nod
+- Adăugăm în coada BFS toate nodurile cu indegree 0
+- În BFS, scoatem elementul curent și îl adăugăm într-un vector
+- Pentru fiecare vecin, scădem gradul de intrare cu o unitate (simulăm ștergerea nodului curent), dacă ajunge la gradul de intrare 0 îl adăugăm în coada BFS.
 
 
 ## [Dijkstra - Infoarena](https://www.infoarena.ro/problema/dijkstra) ||| [Algoritm](./dijkstra.cpp)
